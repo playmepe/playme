@@ -63,3 +63,5 @@ pipe:///usr/bin/env streamlink --stdout --hls-segment-threads 3 --hls-segment-st
 pipe:///usr/bin/ffmpeg -i http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
 #EXTINF:-1 tvg-name="PERU: WILLAX" tvg-language="Spanish" tvg-country="PE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9sdJjXc-TbqYpfzf-zff7QmL4GOVGJLdw7znSJA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="NACIONALES", WILLAX
 pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="PERU: UCI" tvg-language="Spanish" tvg-country="PE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_NHpHo9rQt9wWOmj7ZF5uO8A4kRDYpy-IyHQwvA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="NACIONALES", UCI
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=http://170.79.102.223/UCI/index.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
