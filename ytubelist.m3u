@@ -61,3 +61,5 @@ pipe:///usr/bin/ffmpeg -i http://186.101.216.211:8000/play/a073 -vcodec copy -ac
 pipe:///usr/bin/env streamlink --stdout --hls-segment-threads 3 --hls-segment-stream-data --hls-live-edge 6 --ringbuffer-size 32M -4 --default-stream 480p,best --url http://186.101.216.211:8000/play/a073
 #EXTINF:-1 tvg-name="PERU: CHICOS IP" tvg-language="Spanish" tvg-country="PE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQS8G2fDwNPW7U0IscbAftFU_ypPu3O0ya5MpIR=s176-c-k-c0x00ffffff-no-rj-mo" group-title="KIDS", CHICOS IP
 pipe:///usr/bin/ffmpeg -i http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="PERU: WILLAX" tvg-language="Spanish" tvg-country="PE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9sdJjXc-TbqYpfzf-zff7QmL4GOVGJLdw7znSJA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="NACIONALES", WILLAX
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV -vcodec copy -acodec copy -f mpegts pipe:1
