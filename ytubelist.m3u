@@ -53,3 +53,5 @@ pipe:///usr/bin/env streamlink --stdout --hls-segment-threads 3 --hls-segment-st
 pipe:///usr/bin/env streamlink --stdout --hls-segment-threads 3 --hls-segment-stream-data --hls-live-edge 6 --ringbuffer-size 32M -4 --default-stream 480p,best --url https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
 #EXTINF:-1 tvg-name="PERU: NOTICIAS EXITOSA" tvg-language="Spanish" tvg-country="PE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS", EXITOSA
 pipe:///usr/bin/env streamlink --stdout --hls-segment-threads 3 --hls-segment-stream-data --hls-live-edge 6 --ringbuffer-size 32M -4 --default-stream 480p,best --url https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-name="PERU: NOTICIAS EXITOSA" tvg-language="Spanish" tvg-country="PE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS", EXITOSA
+pipe:///usr/bin/ffmpeg -i https://cu.onliv3.com/livevd1/user2.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
