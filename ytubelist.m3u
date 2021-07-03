@@ -65,3 +65,39 @@ pipe:///usr/bin/ffmpeg -i http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8 -vcodec co
 pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV -vcodec copy -acodec copy -f mpegts pipe:1
 #EXTINF:-1 tvg-name="PERU: UCI" tvg-language="Spanish" tvg-country="PE" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR_NHpHo9rQt9wWOmj7ZF5uO8A4kRDYpy-IyHQwvA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="NACIONALES", UCI
 pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=http://170.79.102.223/UCI/index.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="PERU: PANAMERICANA TV" tvg-id="" group-title="PERU",PERU: PANAMERICANA
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=http://cdnhd.iblups.com/hls/ptv2.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="AR: FOX" tvg-id="" group-title="AR",AR: FOX
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=http://vipvikingz.com/2021240244/sq6CAJrsib/7999215102 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="ARG: HBO PLUS" tvg-id="" group-title="ARG",AR: HBO PLUS
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=http://vipvikingz.com/2021240244/sq6CAJrsib/7999215016 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="PERU: AMERICA TV" tvg-id="" group-title="PERU",PERU: AMERICA TV
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=http://vipvikingz.com/2021240244/sq6CAJrsib/99821128 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="PERU: TVPERU TV" tvg-id="" group-title="PERU",PERU: TV PERU
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=http://cdnh4.iblups.com/hls/irtp.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="PERU: TVPERU TV NOTICIAS" tvg-id="" group-title="PERU",PERU: TV PERU NOTICIAS
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="LA: TNT HD" tvg-id="" group-title="Latino",LA: TNT HD
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://vipvikingz.com/2021240244/sq6CAJrsib/6663109 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="ARG: TNT Series HD" tvg-id="" group-title="Argentina",ARG: TNT Series HD
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://vipvikingz.com/2021240244/sq6CAJrsib/66670755 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="",Locomotion TV (480p)
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=http://51.222.85.85:81/hls/loco/index.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
+#EXTINF:-1 tvg-name="PERU: PANAMERICANA TV" tvg-id="" group-title="PERU",PERU: PANAMERICANA
+http://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-name="AR: FOX" tvg-id="" group-title="AR",AR: FOX
+http://vipvikingz.com/2021240244/sq6CAJrsib/7999215102
+#EXTINF:-1 tvg-name="ARG: HBO PLUS" tvg-id="" group-title="ARG",AR: HBO PLUS
+http://vipvikingz.com/2021240244/sq6CAJrsib/7999215016
+#EXTINF:-1 tvg-name="PERU: AMERICA TV" tvg-id="" group-title="PERU",PERU: AMERICA TV
+http://vipvikingz.com/2021240244/sq6CAJrsib/99821128
+#EXTINF:-1 tvg-name="PERU: TVPERU TV" tvg-id="" group-title="PERU",PERU: TV PERU
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-name="PERU: TVPERU TV NOTICIAS" tvg-id="" group-title="PERU",PERU: TV PERU NOTICIAS
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-name="LA: TNT HD" tvg-id="" group-title="Latino",LA: TNT HD
+https://vipvikingz.com/2021240244/sq6CAJrsib/6663109
+#EXTINF:-1 tvg-name="ARG: TNT Series HD" tvg-id="" group-title="Argentina",ARG: TNT Series HD
+https://vipvikingz.com/2021240244/sq6CAJrsib/66670755
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="",Locomotion TV (480p)
+http://51.222.85.85:81/hls/loco/index.m3u8
