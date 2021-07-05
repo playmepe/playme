@@ -101,3 +101,5 @@ https://vipvikingz.com/2021240244/sq6CAJrsib/6663109
 https://vipvikingz.com/2021240244/sq6CAJrsib/66670755
 #EXTINF:-1 tvg-id="LocomotionTV.do" tvg-name="Locomotion TV" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="",Locomotion TV (480p)
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-name="RT ESPAÑOLbbb" tvg-language="Spanish" tvg-country="ES" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9XVHCvbmi1XBOOMVvN9Ycf5k0qkj19AeZwEiQlaY=s176-c-k-c0x00ffffff-no-rj-mo" group-title="NEWS", RT ESPAÑOLbbb
+pipe:///usr/bin/ffmpeg -i https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://rt-esp-gd.secure2.footprint.net/1102.m3u8 -vcodec copy -acodec copy -f mpegts pipe:1
