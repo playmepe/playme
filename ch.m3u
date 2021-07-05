@@ -1,43 +1,199 @@
 #EXTM3U
+#EXTINF:-1 logo="https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s88-c-k-c0x00ffffff-no-rj" tvg-id="6dc9812abdd2405361513354d0f4073f",A24.com
+http://127.0.0.1:9981/stream/channelid/713148781?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjes9QiTK0Sv-6jI-TW-pjwqG4HhexOh2R3br0lrus=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="586b11f4c6c06b4fa55376dace641a5d",ABC News
+http://127.0.0.1:9981/stream/channelid/1947298648?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwng7unWWOckASlQzLx7Ld4eG-NPJ0CJmnTco-aF5iw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="27de5b2dc6a588506f092606540ea2f2",ABC News AU
+http://127.0.0.1:9981/stream/channelid/760995367?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjQUqXvG-C_hEeRySPaaGMS1REtGd05a9RSLwIj7xc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="258863a0ba0ce1d6e4d0291f3280ba0d",Al Jazeera English
+http://127.0.0.1:9981/stream/channelid/543393829?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhJ3s5LDJpU5vtcFsRbShy_wy2aQYiD6u1COyd5Nw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="22792dc8d783e65145921333c308666c",American Eagle Foundation
+http://127.0.0.1:9981/stream/channelid/1210939682?profile=pass
+#EXTINF:-1 tvg-id="de86e401e9d99016cf0be934a85f742d",AR: FOX
+http://127.0.0.1:9981/stream/channelid/31753950?profile=pass
+#EXTINF:-1 tvg-id="86d81506e1f70f29e0519b872a7683c6",AR: FOX
+http://127.0.0.1:9981/stream/channelid/102094982?profile=pass
+#EXTINF:-1 tvg-id="c91c8f39cecb58d9d87f0d511e58bddf",AR: HBO PLUS
+http://127.0.0.1:9981/stream/channelid/965680329?profile=pass
+#EXTINF:-1 tvg-id="f72769ff9c25e771cc868d4bf5fe4b1e",AR: HBO PLUS
+http://127.0.0.1:9981/stream/channelid/2137597943?profile=pass
+#EXTINF:-1 tvg-id="537c415c122775ea8df478b1fe5cee9d",ARG: TNT Series HD
+http://127.0.0.1:9981/stream/channelid/1547795539?profile=pass
+#EXTINF:-1 tvg-id="6a4993f0aed57e81b2cc059d90dbab05",ARG: TNT Series HD
+http://127.0.0.1:9981/stream/channelid/1888700778?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR4M4pqLOZAqYwbuwcpCqfdOC6Q_M91oDqleUW4cA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="dbb37ccbb6ff4a6d680f0f4160a84c2c",ATV
+http://127.0.0.1:9981/stream/channelid/1266463707?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR4M4pqLOZAqYwbuwcpCqfdOC6Q_M91oDqleUW4cA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="23db1b7a8f499795ab17fca57b3052dd",ATV
+http://127.0.0.1:9981/stream/channelid/2048645923?profile=pass
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjoSxTRnWqXsYg_MqFKAQ22psSmTtlJ3iVDw&usqp=CAU" tvg-id="b91b302d13cc8d597e25494e94e1ee7f",BEXTREME
+http://127.0.0.1:9981/stream/channelid/758127545?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnge4YmlDkuJK2x-e6jBYHUtfyYrdA7w4PddriPa=s800-c-k-c0xffffffff-no-rj-mo" tvg-id="fa7b074c642a1349163c30f2aa951099",BGM channel
+http://127.0.0.1:9981/stream/channelid/1275558906?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwni-qI9UPjV2f85US7YH9dWLoC72w5GTVKtQ95gDVw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="7df7261f1dbd8ee1c3034545a7f58cc6",Bird Watching HQ
+http://127.0.0.1:9981/stream/channelid/522647421?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjJhcfrMRa_dkDQlhadE340LoYbMDQIcAy7dV-JGSE=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="bce1819a8631b93d553d428db9d27ce5",Bloomberg Global News
+http://127.0.0.1:9981/stream/channelid/444719548?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngwPr7UlHCo57cDSnC48GispybmWzy2MjsoY9fqzQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="075de328f65f3a1e4daf8699450b3a7f",C5N
+http://127.0.0.1:9981/stream/channelid/685989127?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhopfwwc4cdopyicbV4yQB3QjhX69ytKkY0IDFguQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="f94cd7b9584e9005ba859c9b233297dc",Cafe del Mar
+http://127.0.0.1:9981/stream/channelid/970411257?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhXCUAyiCY_F25FSahanhaaIUI8ye_nLxw3mI8k3Q=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="9664061e91888ea35953a1f398a96c76",Cafe Music BGM channel
+http://127.0.0.1:9981/stream/channelid/503735446?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngPPscwHj9VNwXmzgRdlQ4y9MWrZJfI3iwWsoCa-Q=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="9a26529cb5f4a88ce164e77f509b3209",Canadian Bird Nerd
+http://127.0.0.1:9981/stream/channelid/475145882?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/EGbgl1gHSxzJPjRyxuKg2pypyDsV8fTJQ-BR6wJw41XRoCeEVOjAnmth_E7Z2neruFpTGC-t=s48-c-k-c0x00ffffff-no-rj" tvg-id="e6a84024494059d467698a911b144a9a",CARACOL
+http://127.0.0.1:9981/stream/channelid/608217318?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhyQp0PdRax8E-U08aw55USD0C1dYUE-w6GdbOJhg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="38f1951ddf06c42d3c43e156aaf22aa1",CaSeismograph
+http://127.0.0.1:9981/stream/channelid/496365880?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRMVylbUmUDYvs2Qh2FslWFKzDWNh9fM1VaqJIW1w=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="e12fb374b00df56790332c832d0c9c55",CBN ESPAÑOL
+http://127.0.0.1:9981/stream/channelid/1957900257?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQS8G2fDwNPW7U0IscbAftFU_ypPu3O0ya5MpIR=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="5e5841e2e2416a534f305b67053e6b78",CHICOS IP
+http://127.0.0.1:9981/stream/channelid/1648449630?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngllEUxqCL-Lnj4nDuGoS5Dejp6GTjsdYrefC1XBQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="a1bafe688f0f84f744298c19b81a5038",ChillYourMind
+http://127.0.0.1:9981/stream/channelid/1761524385?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwniW9ewWFXD1epz9-LuzqlrpYtIyXy-A4I6VTl-E6g=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="fc3fa9c5c83aeacff7ec7f671f7492c5",CNA
+http://127.0.0.1:9981/stream/channelid/1168719868?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhiczEcwgy0nyUEhPvD9yjufrVIty-7r2na873L=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="acd822567abe38083d19eef51adb783f",Cornell Lab Bird Cams
+http://127.0.0.1:9981/stream/channelid/1445124268?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhtjiQ8qJtNDcF9pumlod9ziXH5o0WaC2zRrH9Ekg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="abc81f2877719dddddbf8452428b1dde",CosmoSapiens
+http://127.0.0.1:9981/stream/channelid/673171627?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhPHEiJZ0Cd8AYtgV7cul8bhlZh6PPCizrhHr-0VQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="9cea272d32a599c84a7c375e9eccde44",Danheim
+http://127.0.0.1:9981/stream/channelid/757590684?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSkHR00nR466TO8n0gXKow7Ppc83s8_BaQoln9lxg=s88-c-k-c0x00ffffff-no-rj" tvg-id="f073d2d3fc0c0fa2e04306782c579836",DAVE&AVA
+http://127.0.0.1:9981/stream/channelid/1406301168?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTy_gQ6RjIADIhC5tvmR_5c3WWQ0g3yE2p-k8Dv1Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="b6c6e36720219056ae85ec3785b12fa8",DEPORTV
+http://127.0.0.1:9981/stream/channelid/1742980790?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhXY-iIvV4naxL4WWuS_JQKOqfjqwSgzMswGp4aJUc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="de1b7913580c69481c52a5dbefa53949",DW Deutsch
+http://127.0.0.1:9981/stream/channelid/326704094?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngnDcvUkm6jCn6TEENsvO8bdy60g-T4lCgUWOyemCs=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="48ebb6eb45f73033b7d92b0e074c8f1d",DW English
+http://127.0.0.1:9981/stream/channelid/1807149896?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhXY-iIvV4naxL4WWuS_JQKOqfjqwSgzMswGp4aJUc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="8289ed9531a6534535108ddf83ec9842",DW Español1
+http://127.0.0.1:9981/stream/channelid/367888770?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnimEfH-t9YsO-FdLONV7UqSjRiqHm9VqMU_Vc1LuA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="908172ca3f3341fd1b6e274b68371664",earthTV
+http://127.0.0.1:9981/stream/channelid/1249018256?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQf-syaIe6Mw30bJZh0rB7dIbYrZQC1e2YBatvpzA=s48-c-k-c0x00ffffff-no-rj" tvg-id="eb5e092a910a124a54c4986f5562daac",ENCUENTRO1
+http://127.0.0.1:9981/stream/channelid/705257195?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnja_dPZdy_el5IhBkj9BJUAd29fZzSs4-vaws_uPLw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="4584f32d0fb371f4e68feada5b20f66a",Euronews English
+http://127.0.0.1:9981/stream/channelid/770933829?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQPBMr32egaSw12EVx693wELoyD-Swj3pbZCysP1A=s48-c-k-c0x00ffffff-no-rj" tvg-id="082ab446097c2957aab10dc1ab72f03c",EURONEWS ESPAÑOL
+http://127.0.0.1:9981/stream/channelid/1186212360?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngxE0l-vGHBafT-fP7WfCq_Xo7QfDLATRspf0agKA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="aef49feb7c73c9965ee8d7cbc0f180a8",Euronews Español1
+http://127.0.0.1:9981/stream/channelid/1805644974?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngxE0l-vGHBafT-fP7WfCq_Xo7QfDLATRspf0agKA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="1951f74dadd656096106ac09341a835e",Euronews Portuguese
+http://127.0.0.1:9981/stream/channelid/1308053785?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="48fbe886b9fed16cecb0cbf1778d310d",EXITOSA
+http://127.0.0.1:9981/stream/channelid/115931976?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="8821c45da657db7d731400370e85f230",EXITOSA
+http://127.0.0.1:9981/stream/channelid/1573134728?profile=pass
+#EXTINF:-1 tvg-id="5d5eade22635d021d4c17c3b897da25a",EXITOSA NOT
+http://127.0.0.1:9981/stream/channelid/1655529053?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="e253b500361ec889e7719ce170c0943a",EXITOSA TV
+http://127.0.0.1:9981/stream/channelid/11883490?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjywWk45MmSKqnwL6iX7WM_5MYHv_2IlHfUkSfE=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="11cd02fa0eaabb4762a0b25422e0940a",Explore Africa
+http://127.0.0.1:9981/stream/channelid/2047003921?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnh6S3VGNIy7wchCDNbtmuzpHypjBAKfnFoSGv2JvA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="52bdc9d018913ec7e50a36498ee23cd5",Explore Bears and Bison
+http://127.0.0.1:9981/stream/channelid/1355398482?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngEsW408hXYvl3pbfV054Yy6wrQ87BJbidoAQPDhA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="1c4bfec547a22f98d68d6fdfff6d65f5",Explore Birds Bats Bees
+http://127.0.0.1:9981/stream/channelid/1174293276?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngboT1EAetLSOelxXa7eJ0kfKWFLdZo4mmh_VMwNg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="701b152344a11dddc65adead97173bd9",Explore Farm Life
+http://127.0.0.1:9981/stream/channelid/588585840?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwniC_uCWAU0bVj3Z5qSSTBnVfxlCYC_ObXBdK6Xz=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="81e3c303e4ba1a2a44c76d0909120e65",Explore Nature
+http://127.0.0.1:9981/stream/channelid/63169409?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwni6OyzgBuQ9PykxMk3kzVP930WOxwAnVRuIHKkrIA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="a4648567ac3c9f0ff018995c1d35c9f8",Explore Oceans
+http://127.0.0.1:9981/stream/channelid/1736795300?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngwSBIFO5UNdycjzkUjIRFEq0n5YWKTOgsfbgKdoQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="732213797e5c6fc6a6fd4ea1fe92ac1c",France 24
+http://127.0.0.1:9981/stream/channelid/2031297139?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="e222efd8966f604e233eb78814298762",France 24 English
+http://127.0.0.1:9981/stream/channelid/1492067042?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQg8ZHVsMBa4ARXfkpBjMJPuR8Innqpy4a7oX-1nA=s48-c-k-c0x00ffffff-no-rj" tvg-id="4c28c77287c32abd80a44921a717ee10",G12tv
+http://127.0.0.1:9981/stream/channelid/1925654604?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQ9sUdDBUS9FQsh41am5MNazSmkWunhoqUPJUbC=s48-c-k-c0x00ffffff-no-rj" tvg-id="f0150850d520e72c81c1da5ae2140c77",Héroes en Pijamas
+http://127.0.0.1:9981/stream/channelid/1342707184?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnh5va_l2Wwx15RAXvlDjdlFZfAM3DPYUykuH8bc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="7d21266d550b67b7b724fc5c28edc8c6",I Love You Venice
+http://127.0.0.1:9981/stream/channelid/1831215485?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTF0ThM6gzSvbbmiM6pM2LC6nogPFj8WpDfDKqYhKY=s48-c-k-c0x00ffffff-no-rj" tvg-id="c79e104ec17ccccfa38ffa3de395bc18",INTEGRITY MUSIC
+http://127.0.0.1:9981/stream/channelid/1309712071?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjEgkeJOVLK4IR6deOQedYYTtT3IkkDPBer2M9y=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="fb7182d203508e1ed6cb1886922c4789",Jazz and Bossa Collection
+http://127.0.0.1:9981/stream/channelid/1384280571?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngpawpDv4K72m-235zVdLLZYgjQnaqqBGjjeR9UXA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="0b920702dbf1cf6838498dceea70ebc3",La Nacion Plus
+http://127.0.0.1:9981/stream/channelid/34050571?profile=pass
+#EXTINF:-1 tvg-id="e487bb90b7a53c5660713983abdc0d9a",LA: TNT HD
+http://127.0.0.1:9981/stream/channelid/280725476?profile=pass
+#EXTINF:-1 tvg-id="6074be43617641ba6f9936c53e8d6045",LA: TNT HD
+http://127.0.0.1:9981/stream/channelid/1136555104?profile=pass
+#EXTINF:-1 logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" tvg-id="c1ccf51f49d7b4ab04951e0473e8be77",LATINA
+http://127.0.0.1:9981/stream/channelid/536202433?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/auEJJvP.png" tvg-id="782c55a3ffc4714eb242e105de3afb09",Locomotion TV (480p)
+http://127.0.0.1:9981/stream/channelid/592784504?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/auEJJvP.png" tvg-id="14aae8d89a249edd2ffc25c3b3d7c6b9",Locomotion TV (480p)
+http://127.0.0.1:9981/stream/channelid/1491642900?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngPO53Ea8a1PDAV3NHpv5OZXjx7v4PtT9sM_pjTxA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="3a78b9ac19aa53023caf30fa57d4642f",Milenio
+http://127.0.0.1:9981/stream/channelid/750352442?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngYEIbcvoqrpFNGZ77AqPcExMO_6uxyFeP5b8hbuhc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="34891bee372c40b54fac07fd068a2010",Monterey Bay Aquarium
+http://127.0.0.1:9981/stream/channelid/1847298356?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="6de4b26ec322e7b8124459aafe8ee9b8",NASA TV
+http://127.0.0.1:9981/stream/channelid/1857217645?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwniXwJsMIJEjx06QrnjZaMw7olb67nzBAsXMzaL0Lw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="c8ba799bbee2a9e678d01cf3170794be",NatureTec
+http://127.0.0.1:9981/stream/channelid/460962504?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLShZTWiRbjjA55vk5U0b8CgIAKM8uojS1D3limL=s48-c-k-c0x00ffffff-no-rj" tvg-id="82df53cecd1cada16bc57e1c85fc1d77",NICK JR. ESPAÑOL
-http://172.24.120.114:9981/stream/channelid/1314119554?profile=pass
+http://127.0.0.1:9981/stream/channelid/1314119554?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRhoSEjiGAYUU5h0L_cwS4vhRttvenmG-J5BaSOjQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="29ae954d1d9370f7a19a79639271ed96",PAW PATROL ESPAÑOL
-http://*@172.24.120.114:9981/stream/channelid/1301655081?profile=pass
+http://127.0.0.1:9981/stream/channelid/1301655081?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSQX77yOtrWL6SE_9yx2ahYmeUneTCgfZlwzW3QuQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="111cfe2bfb873a723623e5c5c7c1a5c9",PEPPA PIG ESPAÑOL
-http://172.24.120.114:9981/stream/channelid/738073617?profile=pass
+http://127.0.0.1:9981/stream/channelid/738073617?profile=pass
 #EXTINF:-1 tvg-id="c0bd9801e6deb95f51a0bfcd5b627ef4",PERU: AMERICA TV
-http://172.24.120.114:9981/stream/channelid/26787264?profile=pass
+http://127.0.0.1:9981/stream/channelid/26787264?profile=pass
 #EXTINF:-1 tvg-id="a7ffe671b5f7e2de6b1912f78fd1b985",PERU: AMERICA TV
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/1910964135?profile=pass
+http://127.0.0.1:9981/stream/channelid/1910964135?profile=pass
 #EXTINF:-1 tvg-id="22b3b890d59ab83a93a6fe9fec975cf1",PERU: PANAMERICANA
-http://172.24.120.114:9981/stream/channelid/280539938?profile=pass
+http://127.0.0.1:9981/stream/channelid/280539938?profile=pass
 #EXTINF:-1 tvg-id="883991d97788edcb38803aa25c3aa114",PERU: PANAMERICANA
-http://172.24.120.114:9981/stream/channelid/1502689672?profile=pass
+http://127.0.0.1:9981/stream/channelid/1502689672?profile=pass
 #EXTINF:-1 tvg-id="4c2dde0fab19e85ae0d8d314d0f1a8ce",PERU: TV PERU
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/266218828.m3u
+http://127.0.0.1:9981/stream/channelid/266218828?profile=pass
 #EXTINF:-1 tvg-id="263668923611d19dbfd43665e910ddee",PERU: TV PERU
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/308819494.m3u
+http://127.0.0.1:9981/stream/channelid/308819494?profile=pass
 #EXTINF:-1 tvg-id="d2ccac542b9c491bf3edaf9f4f93ea75",PERU: TV PERU NOTICIAS
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/1420610770.m3u
+http://127.0.0.1:9981/stream/channelid/1420610770?profile=pass
 #EXTINF:-1 tvg-id="de8b3cee5fe09169fd905c943bc09929",PERU: TV PERU NOTICIAS
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/1849461726.m3u
+http://127.0.0.1:9981/stream/channelid/1849461726?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSR6RbAvOISX0gmzk1QZpVRxY1aEX5pNswqVe5q=s88-c-k-c0x00ffffff-no-rj" tvg-id="4844c79c20dcc65cc010c01f0f47adcb",RADIO UNO
+http://127.0.0.1:9981/stream/channelid/482821192?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhXasbVGZU0HgNdEG6LtPmR032TPmwrDsZR6taGrg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="161b978235597c47f981ca434043ce33",RailWay
+http://127.0.0.1:9981/stream/channelid/43457302?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhi8PrSURYvL7Eut-qfmAoi6pNshbFq7boraWAC=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="b862d1c78628027d969c6dc777d622e4",Record News
+http://127.0.0.1:9981/stream/channelid/1204904632?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/j_fbqcaoU-zUhI5hpFoz3xv94S1e8zkVJ8dQxRrP0jc0Uy79IHTN88dFgbLuaPiA0ylzhdS8qA=s48-c-k-c0x00ffffff-no-rj" tvg-id="44ddda638d5754c4e15e83f7085bbefa",RPP
+http://127.0.0.1:9981/stream/channelid/1675287876?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR9XVHCvbmi1XBOOMVvN9Ycf5k0qkj19AeZwEiQlaY=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="e9a781c2cd219c313ffb29f7ed696575",RT ESPAÑOL
+http://127.0.0.1:9981/stream/channelid/1115793385?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnijYqNxgVUKWqoGcecybqhx7rkYODHYyS0so06S4A=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="4e64b02732beffba2b64395907e7e8fc",RT News
+http://127.0.0.1:9981/stream/channelid/665871438?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhiSj68Il28UVufce2uB4FGuMFMjsgdnZWtEES1N1c=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="8ac10b389d811acaf6f714ed505c101f",Sky News
+http://127.0.0.1:9981/stream/channelid/940294538?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwniQ-SOmDhoXaEcn6ClWeuoknbbKatk6kFk6pVPWlg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="c69bb68d9731267ebeb79a78941723f0",Space and the Universe HD
+http://127.0.0.1:9981/stream/channelid/230071238?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhJwS4dNhDO2CZEBpbWelJ6U9YfovHTZM3PiKpy2Q=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="4720a93b3b06362a009ddacbee45e3b2",Space Videos
+http://127.0.0.1:9981/stream/channelid/1000939591?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhvXPG1gEgDcHRY4TvLO57vlHRwk988INe0eSKM4A=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="e69506be4e42f45107973fec42accb50",Stay See
+http://127.0.0.1:9981/stream/channelid/1040618982?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRJPpZk1EJSXOa6My3F10Kji_b6pUUXMPriZvqGSA=s88-c-k-c0x00ffffff-no-rj" tvg-id="59c8d894d5308c1d1c3ace62b40dbe7f",TELEFE CORDOBA
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/349751385.m3u
+http://127.0.0.1:9981/stream/channelid/349751385?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRg21cA1jnOWQVgswb5ktMCeg9C4RApd_x6Ylsk3XI=s88-c-k-c0x00ffffff-no-rj" tvg-id="3c3471bada222c3e7ce75334db427c99",TELESUR
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/980497468.m3u
+http://127.0.0.1:9981/stream/channelid/980497468?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSbBPoxvbkcPgoHtRENtZA5mI_3impCInyevH1g=s48-c-k-c0x00ffffff-no-rj" tvg-id="2e0ee7b20ff3a510081d732d50125fca",TELEVISA MEXICO
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/854003246.m3u
+http://127.0.0.1:9981/stream/channelid/854003246?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnivYh0RAgrZ_jPXal8LvI_UToIUfaEXaB7kX1_F-A=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="7b6708ca3442bc973941c98295b6e4c4",Todo Noticia
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/1242064763.m3u
+http://127.0.0.1:9981/stream/channelid/1242064763?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngAazUG-vmIz9cu8ZrHBTah9mLxTk4BeLN9FwX-jA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="a9ac90a34a179ab4397e0095d60a719c",Tomorrowland
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/596683945.m3u
+http://127.0.0.1:9981/stream/channelid/596683945?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQNae8OMdW8uBeGHtY9XgrGR8QFL8vVyDxuiwoD8A=s48-c-k-c0x00ffffff-no-rj" tvg-id="2268bacbcc19b013113a6b5dbce399be",Tv Publica
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/1270507554.m3u
+http://127.0.0.1:9981/stream/channelid/1270507554?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR_NHpHo9rQt9wWOmj7ZF5uO8A4kRDYpy-IyHQwvA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="9cdec61708686732b126a6d7e9222559",UCI
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/398909084.m3u
+http://127.0.0.1:9981/stream/channelid/398909084?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/Xu7uS79Q1Ga6vDZcm0W5Ib0xCik3LVQd432QP6BYabqHaOTjtdjMyEbEaTho_z6hLZ6mXElFjA=s48-c-k-c0x00ffffff-no-rj" tvg-id="612b4e8c4e4c6b5b2a5dceb85b549fda",Vineyard Worship
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/206449505.m3u
+http://127.0.0.1:9981/stream/channelid/206449505?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjEv_ZoYJ8J4X41Eu3U8H1mmkJdFOQHXXMoGMRi=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="d877f8b29adc7408e4872de2f7aa84fa",VolcanoVerse
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/855144408.m3u
+http://127.0.0.1:9981/stream/channelid/855144408?profile=pass
 #EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR9sdJjXc-TbqYpfzf-zff7QmL4GOVGJLdw7znSJA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="f12b8d53d9d8ca9fc0954f2d37ef9ba8",WILLAX
-http://e69506be4e42f45107973fec42accb50:44ddda638d5754c4e15e83f7085bbefa@172.24.120.114:9981/stream/channelid/1401760753.m3u
+http://127.0.0.1:9981/stream/channelid/1401760753?profile=pass
