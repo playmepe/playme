@@ -1,201 +1,601 @@
 #EXTM3U
-#EXTINF:-1 logo="https://yt3.ggpht.com/Ehgzljg8T8lsiCG4M6CjOp-G1P7nizvlRKNaDd_rqEnAYn3nG5jbNHXQ7ljcjvDvXjojGC6Lyw=s88-c-k-c0x00ffffff-no-rj" tvg-id="6dc9812abdd2405361513354d0f4073f",A24.com
-http://172.24.120.114:9981/stream/channelid/713148781?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjes9QiTK0Sv-6jI-TW-pjwqG4HhexOh2R3br0lrus=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="586b11f4c6c06b4fa55376dace641a5d",ABC News
-http://172.24.120.114:9981/stream/channelid/1947298648?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwng7unWWOckASlQzLx7Ld4eG-NPJ0CJmnTco-aF5iw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="27de5b2dc6a588506f092606540ea2f2",ABC News AU
-http://172.24.120.114:9981/stream/channelid/760995367?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjQUqXvG-C_hEeRySPaaGMS1REtGd05a9RSLwIj7xc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="258863a0ba0ce1d6e4d0291f3280ba0d",Al Jazeera English
-http://172.24.120.114:9981/stream/channelid/543393829?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhJ3s5LDJpU5vtcFsRbShy_wy2aQYiD6u1COyd5Nw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="22792dc8d783e65145921333c308666c",American Eagle Foundation
-http://172.24.120.114:9981/stream/channelid/1210939682?profile=pass
-#EXTINF:-1 tvg-id="de86e401e9d99016cf0be934a85f742d",AR: FOX
-http://172.24.120.114:9981/stream/channelid/31753950?profile=pass
-#EXTINF:-1 tvg-id="86d81506e1f70f29e0519b872a7683c6",AR: FOX
-http://172.24.120.114:9981/stream/channelid/102094982?profile=pass
-#EXTINF:-1 tvg-id="c91c8f39cecb58d9d87f0d511e58bddf",AR: HBO PLUS
-http://172.24.120.114:9981/stream/channelid/965680329?profile=pass
-#EXTINF:-1 tvg-id="f72769ff9c25e771cc868d4bf5fe4b1e",AR: HBO PLUS
-http://172.24.120.114:9981/stream/channelid/2137597943?profile=pass
-#EXTINF:-1 tvg-id="537c415c122775ea8df478b1fe5cee9d",ARG: TNT Series HD
-http://172.24.120.114:9981/stream/channelid/1547795539?profile=pass
-#EXTINF:-1 tvg-id="6a4993f0aed57e81b2cc059d90dbab05",ARG: TNT Series HD
-http://172.24.120.114:9981/stream/channelid/1888700778?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR4M4pqLOZAqYwbuwcpCqfdOC6Q_M91oDqleUW4cA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="dbb37ccbb6ff4a6d680f0f4160a84c2c",ATV
-http://172.24.120.114:9981/stream/channelid/1266463707?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR4M4pqLOZAqYwbuwcpCqfdOC6Q_M91oDqleUW4cA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="23db1b7a8f499795ab17fca57b3052dd",ATV
-http://172.24.120.114:9981/stream/channelid/2048645923?profile=pass
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjoSxTRnWqXsYg_MqFKAQ22psSmTtlJ3iVDw&usqp=CAU" tvg-id="b91b302d13cc8d597e25494e94e1ee7f",BEXTREME
-http://172.24.120.114:9981/stream/channelid/758127545?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnge4YmlDkuJK2x-e6jBYHUtfyYrdA7w4PddriPa=s800-c-k-c0xffffffff-no-rj-mo" tvg-id="fa7b074c642a1349163c30f2aa951099",BGM channel
-http://172.24.120.114:9981/stream/channelid/1275558906?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwni-qI9UPjV2f85US7YH9dWLoC72w5GTVKtQ95gDVw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="7df7261f1dbd8ee1c3034545a7f58cc6",Bird Watching HQ
-http://172.24.120.114:9981/stream/channelid/522647421?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjJhcfrMRa_dkDQlhadE340LoYbMDQIcAy7dV-JGSE=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="bce1819a8631b93d553d428db9d27ce5",Bloomberg Global News
-http://172.24.120.114:9981/stream/channelid/444719548?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngwPr7UlHCo57cDSnC48GispybmWzy2MjsoY9fqzQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="075de328f65f3a1e4daf8699450b3a7f",C5N
-http://172.24.120.114:9981/stream/channelid/685989127?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhopfwwc4cdopyicbV4yQB3QjhX69ytKkY0IDFguQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="f94cd7b9584e9005ba859c9b233297dc",Cafe del Mar
-http://172.24.120.114:9981/stream/channelid/970411257?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhXCUAyiCY_F25FSahanhaaIUI8ye_nLxw3mI8k3Q=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="9664061e91888ea35953a1f398a96c76",Cafe Music BGM channel
-http://172.24.120.114:9981/stream/channelid/503735446?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngPPscwHj9VNwXmzgRdlQ4y9MWrZJfI3iwWsoCa-Q=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="9a26529cb5f4a88ce164e77f509b3209",Canadian Bird Nerd
-http://172.24.120.114:9981/stream/channelid/475145882?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/EGbgl1gHSxzJPjRyxuKg2pypyDsV8fTJQ-BR6wJw41XRoCeEVOjAnmth_E7Z2neruFpTGC-t=s48-c-k-c0x00ffffff-no-rj" tvg-id="e6a84024494059d467698a911b144a9a",CARACOL
-http://172.24.120.114:9981/stream/channelid/608217318?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhyQp0PdRax8E-U08aw55USD0C1dYUE-w6GdbOJhg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="38f1951ddf06c42d3c43e156aaf22aa1",CaSeismograph
-http://172.24.120.114:9981/stream/channelid/496365880?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRMVylbUmUDYvs2Qh2FslWFKzDWNh9fM1VaqJIW1w=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="e12fb374b00df56790332c832d0c9c55",CBN ESPAÑOL
-http://172.24.120.114:9981/stream/channelid/1957900257?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQS8G2fDwNPW7U0IscbAftFU_ypPu3O0ya5MpIR=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="5e5841e2e2416a534f305b67053e6b78",CHICOS IP
-http://172.24.120.114:9981/stream/channelid/1648449630?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngllEUxqCL-Lnj4nDuGoS5Dejp6GTjsdYrefC1XBQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="a1bafe688f0f84f744298c19b81a5038",ChillYourMind
-http://172.24.120.114:9981/stream/channelid/1761524385?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwniW9ewWFXD1epz9-LuzqlrpYtIyXy-A4I6VTl-E6g=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="fc3fa9c5c83aeacff7ec7f671f7492c5",CNA
-http://172.24.120.114:9981/stream/channelid/1168719868?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhiczEcwgy0nyUEhPvD9yjufrVIty-7r2na873L=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="acd822567abe38083d19eef51adb783f",Cornell Lab Bird Cams
-http://172.24.120.114:9981/stream/channelid/1445124268?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhtjiQ8qJtNDcF9pumlod9ziXH5o0WaC2zRrH9Ekg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="abc81f2877719dddddbf8452428b1dde",CosmoSapiens
-http://172.24.120.114:9981/stream/channelid/673171627?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhPHEiJZ0Cd8AYtgV7cul8bhlZh6PPCizrhHr-0VQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="9cea272d32a599c84a7c375e9eccde44",Danheim
-http://172.24.120.114:9981/stream/channelid/757590684?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSkHR00nR466TO8n0gXKow7Ppc83s8_BaQoln9lxg=s88-c-k-c0x00ffffff-no-rj" tvg-id="f073d2d3fc0c0fa2e04306782c579836",DAVE&AVA
-http://172.24.120.114:9981/stream/channelid/1406301168?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTy_gQ6RjIADIhC5tvmR_5c3WWQ0g3yE2p-k8Dv1Q=s48-c-k-c0x00ffffff-no-rj" tvg-id="b6c6e36720219056ae85ec3785b12fa8",DEPORTV
-http://172.24.120.114:9981/stream/channelid/1742980790?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhXY-iIvV4naxL4WWuS_JQKOqfjqwSgzMswGp4aJUc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="de1b7913580c69481c52a5dbefa53949",DW Deutsch
-http://172.24.120.114:9981/stream/channelid/326704094?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngnDcvUkm6jCn6TEENsvO8bdy60g-T4lCgUWOyemCs=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="48ebb6eb45f73033b7d92b0e074c8f1d",DW English
-http://172.24.120.114:9981/stream/channelid/1807149896?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhXY-iIvV4naxL4WWuS_JQKOqfjqwSgzMswGp4aJUc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="8289ed9531a6534535108ddf83ec9842",DW Español1
-http://172.24.120.114:9981/stream/channelid/367888770?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnimEfH-t9YsO-FdLONV7UqSjRiqHm9VqMU_Vc1LuA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="908172ca3f3341fd1b6e274b68371664",earthTV
-http://172.24.120.114:9981/stream/channelid/1249018256?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQf-syaIe6Mw30bJZh0rB7dIbYrZQC1e2YBatvpzA=s48-c-k-c0x00ffffff-no-rj" tvg-id="eb5e092a910a124a54c4986f5562daac",ENCUENTRO1
-http://172.24.120.114:9981/stream/channelid/705257195?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnja_dPZdy_el5IhBkj9BJUAd29fZzSs4-vaws_uPLw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="4584f32d0fb371f4e68feada5b20f66a",Euronews English
-http://172.24.120.114:9981/stream/channelid/770933829?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQPBMr32egaSw12EVx693wELoyD-Swj3pbZCysP1A=s48-c-k-c0x00ffffff-no-rj" tvg-id="082ab446097c2957aab10dc1ab72f03c",EURONEWS ESPAÑOL
-http://172.24.120.114:9981/stream/channelid/1186212360?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngxE0l-vGHBafT-fP7WfCq_Xo7QfDLATRspf0agKA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="aef49feb7c73c9965ee8d7cbc0f180a8",Euronews Español1
-http://172.24.120.114:9981/stream/channelid/1805644974?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngxE0l-vGHBafT-fP7WfCq_Xo7QfDLATRspf0agKA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="1951f74dadd656096106ac09341a835e",Euronews Portuguese
-http://172.24.120.114:9981/stream/channelid/1308053785?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="48fbe886b9fed16cecb0cbf1778d310d",EXITOSA
-http://172.24.120.114:9981/stream/channelid/115931976?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="8821c45da657db7d731400370e85f230",EXITOSA
-http://172.24.120.114:9981/stream/channelid/1573134728?profile=pass
-#EXTINF:-1 tvg-id="5d5eade22635d021d4c17c3b897da25a",EXITOSA NOT
-http://172.24.120.114:9981/stream/channelid/1655529053?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="e253b500361ec889e7719ce170c0943a",EXITOSA TV
-http://172.24.120.114:9981/stream/channelid/11883490?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjywWk45MmSKqnwL6iX7WM_5MYHv_2IlHfUkSfE=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="11cd02fa0eaabb4762a0b25422e0940a",Explore Africa
-http://172.24.120.114:9981/stream/channelid/2047003921?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnh6S3VGNIy7wchCDNbtmuzpHypjBAKfnFoSGv2JvA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="52bdc9d018913ec7e50a36498ee23cd5",Explore Bears and Bison
-http://172.24.120.114:9981/stream/channelid/1355398482?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngEsW408hXYvl3pbfV054Yy6wrQ87BJbidoAQPDhA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="1c4bfec547a22f98d68d6fdfff6d65f5",Explore Birds Bats Bees
-http://172.24.120.114:9981/stream/channelid/1174293276?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngboT1EAetLSOelxXa7eJ0kfKWFLdZo4mmh_VMwNg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="701b152344a11dddc65adead97173bd9",Explore Farm Life
-http://172.24.120.114:9981/stream/channelid/588585840?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwniC_uCWAU0bVj3Z5qSSTBnVfxlCYC_ObXBdK6Xz=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="81e3c303e4ba1a2a44c76d0909120e65",Explore Nature
-http://172.24.120.114:9981/stream/channelid/63169409?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwni6OyzgBuQ9PykxMk3kzVP930WOxwAnVRuIHKkrIA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="a4648567ac3c9f0ff018995c1d35c9f8",Explore Oceans
-http://172.24.120.114:9981/stream/channelid/1736795300?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngwSBIFO5UNdycjzkUjIRFEq0n5YWKTOgsfbgKdoQ=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="732213797e5c6fc6a6fd4ea1fe92ac1c",France 24
-http://172.24.120.114:9981/stream/channelid/2031297139?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="e222efd8966f604e233eb78814298762",France 24 English
-http://172.24.120.114:9981/stream/channelid/1492067042?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQg8ZHVsMBa4ARXfkpBjMJPuR8Innqpy4a7oX-1nA=s48-c-k-c0x00ffffff-no-rj" tvg-id="4c28c77287c32abd80a44921a717ee10",G12tv
-http://172.24.120.114:9981/stream/channelid/1925654604?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQ9sUdDBUS9FQsh41am5MNazSmkWunhoqUPJUbC=s48-c-k-c0x00ffffff-no-rj" tvg-id="f0150850d520e72c81c1da5ae2140c77",Héroes en Pijamas
-http://172.24.120.114:9981/stream/channelid/1342707184?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnh5va_l2Wwx15RAXvlDjdlFZfAM3DPYUykuH8bc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="7d21266d550b67b7b724fc5c28edc8c6",I Love You Venice
-http://172.24.120.114:9981/stream/channelid/1831215485?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTF0ThM6gzSvbbmiM6pM2LC6nogPFj8WpDfDKqYhKY=s48-c-k-c0x00ffffff-no-rj" tvg-id="c79e104ec17ccccfa38ffa3de395bc18",INTEGRITY MUSIC
-http://172.24.120.114:9981/stream/channelid/1309712071?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjEgkeJOVLK4IR6deOQedYYTtT3IkkDPBer2M9y=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="fb7182d203508e1ed6cb1886922c4789",Jazz and Bossa Collection
-http://172.24.120.114:9981/stream/channelid/1384280571?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngpawpDv4K72m-235zVdLLZYgjQnaqqBGjjeR9UXA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="0b920702dbf1cf6838498dceea70ebc3",La Nacion Plus
-http://172.24.120.114:9981/stream/channelid/34050571?profile=pass
-#EXTINF:-1 tvg-id="e487bb90b7a53c5660713983abdc0d9a",LA: TNT HD
-http://172.24.120.114:9981/stream/channelid/280725476?profile=pass
-#EXTINF:-1 tvg-id="6074be43617641ba6f9936c53e8d6045",LA: TNT HD
-http://172.24.120.114:9981/stream/channelid/1136555104?profile=pass
-#EXTINF:-1 logo="https://www.latina.pe/wp-content/themes/genesis-latina/img/latina_pe.png" tvg-id="c1ccf51f49d7b4ab04951e0473e8be77",LATINA
-http://172.24.120.114:9981/stream/channelid/536202433?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/auEJJvP.png" tvg-id="782c55a3ffc4714eb242e105de3afb09",Locomotion TV (480p)
-http://172.24.120.114:9981/stream/channelid/592784504?profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/auEJJvP.png" tvg-id="14aae8d89a249edd2ffc25c3b3d7c6b9",Locomotion TV (480p)
-http://172.24.120.114:9981/stream/channelid/1491642900?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngPO53Ea8a1PDAV3NHpv5OZXjx7v4PtT9sM_pjTxA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="3a78b9ac19aa53023caf30fa57d4642f",Milenio
-http://172.24.120.114:9981/stream/channelid/750352442?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngYEIbcvoqrpFNGZ77AqPcExMO_6uxyFeP5b8hbuhc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="34891bee372c40b54fac07fd068a2010",Monterey Bay Aquarium
-http://172.24.120.114:9981/stream/channelid/1847298356?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhTEa6kEyqgSvL3wMaMbUDZtyHvhXehJppDCeOGUCI=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="6de4b26ec322e7b8124459aafe8ee9b8",NASA TV
-http://172.24.120.114:9981/stream/channelid/1857217645?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwniXwJsMIJEjx06QrnjZaMw7olb67nzBAsXMzaL0Lw=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="c8ba799bbee2a9e678d01cf3170794be",NatureTec
-http://172.24.120.114:9981/stream/channelid/460962504?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLShZTWiRbjjA55vk5U0b8CgIAKM8uojS1D3limL=s48-c-k-c0x00ffffff-no-rj" tvg-id="82df53cecd1cada16bc57e1c85fc1d77",NICK JR. ESPAÑOL
-http://172.24.120.114:9981/stream/channelid/1314119554?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRhoSEjiGAYUU5h0L_cwS4vhRttvenmG-J5BaSOjQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="29ae954d1d9370f7a19a79639271ed96",PAW PATROL ESPAÑOL
-http://172.24.120.114:9981/stream/channelid/1301655081?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSQX77yOtrWL6SE_9yx2ahYmeUneTCgfZlwzW3QuQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="111cfe2bfb873a723623e5c5c7c1a5c9",PEPPA PIG ESPAÑOL
-http://172.24.120.114:9981/stream/channelid/738073617?profile=pass
-#EXTINF:-1 tvg-id="c0bd9801e6deb95f51a0bfcd5b627ef4",PERU: AMERICA TV
-http://172.24.120.114:9981/stream/channelid/26787264?profile=pass
-#EXTINF:-1 tvg-id="a7ffe671b5f7e2de6b1912f78fd1b985",PERU: AMERICA TV
-http://172.24.120.114:9981/stream/channelid/1910964135?profile=pass
-#EXTINF:-1 tvg-id="22b3b890d59ab83a93a6fe9fec975cf1",PERU: PANAMERICANA
-http://172.24.120.114:9981/stream/channelid/280539938?profile=pass
-#EXTINF:-1 tvg-id="883991d97788edcb38803aa25c3aa114",PERU: PANAMERICANA
-http://172.24.120.114:9981/stream/channelid/1502689672?profile=pass
-#EXTINF:-1 tvg-id="4c2dde0fab19e85ae0d8d314d0f1a8ce",PERU: TV PERU
-http://172.24.120.114:9981/stream/channelid/266218828?profile=pass
-#EXTINF:-1 tvg-id="263668923611d19dbfd43665e910ddee",PERU: TV PERU
-http://172.24.120.114:9981/stream/channelid/308819494?profile=pass
-#EXTINF:-1 tvg-id="d2ccac542b9c491bf3edaf9f4f93ea75",PERU: TV PERU NOTICIAS
-http://172.24.120.114:9981/stream/channelid/1420610770?profile=pass
-#EXTINF:-1 tvg-id="de8b3cee5fe09169fd905c943bc09929",PERU: TV PERU NOTICIAS
-http://172.24.120.114:9981/stream/channelid/1849461726?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSR6RbAvOISX0gmzk1QZpVRxY1aEX5pNswqVe5q=s88-c-k-c0x00ffffff-no-rj" tvg-id="4844c79c20dcc65cc010c01f0f47adcb",RADIO UNO
-http://172.24.120.114:9981/stream/channelid/482821192?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhXasbVGZU0HgNdEG6LtPmR032TPmwrDsZR6taGrg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="161b978235597c47f981ca434043ce33",RailWay
-http://172.24.120.114:9981/stream/channelid/43457302?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhi8PrSURYvL7Eut-qfmAoi6pNshbFq7boraWAC=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="b862d1c78628027d969c6dc777d622e4",Record News
-http://172.24.120.114:9981/stream/channelid/1204904632?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/j_fbqcaoU-zUhI5hpFoz3xv94S1e8zkVJ8dQxRrP0jc0Uy79IHTN88dFgbLuaPiA0ylzhdS8qA=s48-c-k-c0x00ffffff-no-rj" tvg-id="44ddda638d5754c4e15e83f7085bbefa",RPP
-http://172.24.120.114:9981/stream/channelid/1675287876?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR9XVHCvbmi1XBOOMVvN9Ycf5k0qkj19AeZwEiQlaY=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="e9a781c2cd219c313ffb29f7ed696575",RT ESPAÑOL
-http://172.24.120.114:9981/stream/channelid/1115793385?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnijYqNxgVUKWqoGcecybqhx7rkYODHYyS0so06S4A=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="4e64b02732beffba2b64395907e7e8fc",RT News
-http://172.24.120.114:9981/stream/channelid/665871438?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhiSj68Il28UVufce2uB4FGuMFMjsgdnZWtEES1N1c=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="8ac10b389d811acaf6f714ed505c101f",Sky News
-http://172.24.120.114:9981/stream/channelid/940294538?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwniQ-SOmDhoXaEcn6ClWeuoknbbKatk6kFk6pVPWlg=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="c69bb68d9731267ebeb79a78941723f0",Space and the Universe HD
-http://172.24.120.114:9981/stream/channelid/230071238?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhJwS4dNhDO2CZEBpbWelJ6U9YfovHTZM3PiKpy2Q=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="4720a93b3b06362a009ddacbee45e3b2",Space Videos
-http://172.24.120.114:9981/stream/channelid/1000939591?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhvXPG1gEgDcHRY4TvLO57vlHRwk988INe0eSKM4A=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="e69506be4e42f45107973fec42accb50",Stay See
-http://172.24.120.114:9981/stream/channelid/1040618982?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRJPpZk1EJSXOa6My3F10Kji_b6pUUXMPriZvqGSA=s88-c-k-c0x00ffffff-no-rj" tvg-id="59c8d894d5308c1d1c3ace62b40dbe7f",TELEFE CORDOBA
-http://172.24.120.114:9981/stream/channelid/349751385?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRg21cA1jnOWQVgswb5ktMCeg9C4RApd_x6Ylsk3XI=s88-c-k-c0x00ffffff-no-rj" tvg-id="3c3471bada222c3e7ce75334db427c99",TELESUR
-http://172.24.120.114:9981/stream/channelid/980497468?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSbBPoxvbkcPgoHtRENtZA5mI_3impCInyevH1g=s48-c-k-c0x00ffffff-no-rj" tvg-id="2e0ee7b20ff3a510081d732d50125fca",TELEVISA MEXICO
-http://172.24.120.114:9981/stream/channelid/854003246?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnivYh0RAgrZ_jPXal8LvI_UToIUfaEXaB7kX1_F-A=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="7b6708ca3442bc973941c98295b6e4c4",Todo Noticia
-http://172.24.120.114:9981/stream/channelid/1242064763?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwngAazUG-vmIz9cu8ZrHBTah9mLxTk4BeLN9FwX-jA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="a9ac90a34a179ab4397e0095d60a719c",Tomorrowland
-http://172.24.120.114:9981/stream/channelid/596683945?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQNae8OMdW8uBeGHtY9XgrGR8QFL8vVyDxuiwoD8A=s48-c-k-c0x00ffffff-no-rj" tvg-id="2268bacbcc19b013113a6b5dbce399be",Tv Publica
-http://172.24.120.114:9981/stream/channelid/1270507554?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR_NHpHo9rQt9wWOmj7ZF5uO8A4kRDYpy-IyHQwvA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="9cdec61708686732b126a6d7e9222559",UCI
-http://172.24.120.114:9981/stream/channelid/398909084?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/Xu7uS79Q1Ga6vDZcm0W5Ib0xCik3LVQd432QP6BYabqHaOTjtdjMyEbEaTho_z6hLZ6mXElFjA=s48-c-k-c0x00ffffff-no-rj" tvg-id="612b4e8c4e4c6b5b2a5dceb85b549fda",Vineyard Worship
-http://172.24.120.114:9981/stream/channelid/206449505?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnjEv_ZoYJ8J4X41Eu3U8H1mmkJdFOQHXXMoGMRi=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="d877f8b29adc7408e4872de2f7aa84fa",VolcanoVerse
-http://172.24.120.114:9981/stream/channelid/855144408?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR9sdJjXc-TbqYpfzf-zff7QmL4GOVGJLdw7znSJA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="f12b8d53d9d8ca9fc0954f2d37ef9ba8",WILLAX
-http://172.24.120.114:9981/stream/channelid/1401760753?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR9sdJjXc-TbqYpfzf-zff7QmL4GOVGJLdw7znSJA=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="f12b8d53d9d8ca9fc0954f2d37ef9ba8",WILLAX111
-http://172.24.120.114:9981/stream/channelid/1401760753?profile=pass
+#EXTINF:-1 tvg-id="ddbc05bd89e50474f9ede5a27c5979bb",ABE Educativo
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1023786205?profile=pass
+#EXTINF:-1 tvg-id="b4af2ade484fe550d7a7297eb6718a1a",ABE TV
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1579855796?profile=pass
+#EXTINF:-1 tvg-id="bedacf309e4596fd1c40805030449d3c",Abya Yala TV
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/818928318?profile=pass
+#EXTINF:-1 tvg-id="0f7338204630bdcfd50be2d979aa659c",ATB LPZ
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/540570383?profile=pass
+#EXTINF:-1 tvg-id="32a7c8ff9733b68bf7c60d7f8c6be20a",ATB Radio
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2143856434?profile=pass
+#EXTINF:-1 tvg-id="62223d977fd8a1a4f4f8bbdc53e76a18",Bethel Bolivia
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/389882466?profile=pass
+#EXTINF:-1 tvg-id="0159032d20063ed2d9373722fb41bb6a",Bolivia TV7.1
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/755194113?profile=pass
+#EXTINF:-1 tvg-id="53b80ff24a58085bf019e8956a57c455",Bolivia TV7.2
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1913632851?profile=pass
+#EXTINF:-1 tvg-id="ee5ab3ed53541fd188319522aee00a6f",Bolivision HD
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1840470766?profile=pass
+#EXTINF:-1 tvg-id="73df95a387a165eda50c4fa45a52aa47",CADENA A HD
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/597024627?profile=pass
+#EXTINF:-1 tvg-id="417cf2f47ef0014664de906887264c6e",CANAL 6 - SEO TV
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1962048577?profile=pass
+#EXTINF:-1 tvg-id="17f072455ecdb9a6183149c64035b7c4",EBo.TV
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1165160471?profile=pass
+#EXTINF:-1 tvg-id="b96fb326cdcc5b773e4a5e90578d68af",Jerusalem Radio
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/649293753?profile=pass
+#EXTINF:-1 tvg-id="7f4e08d95f57588b2c5d156447b483ac",Kawsachun Coca
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1493716607?profile=pass
+#EXTINF:-1 tvg-id="c4074cfc565cfd88fd8157f4852c7186",Ministerio de Educacion
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2085357508?profile=pass
+#EXTINF:-1 tvg-id="2eb692738561b068ba6dae526863c2c8",Palenque TV
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1938994734?profile=pass
+#EXTINF:-1 tvg-id="3c683c55d0e12bc40b324d445ae64208",PANAMERICANA
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1430022204?profile=pass
+#EXTINF:-1 tvg-id="c2e120d02c056b1c2fde88f3b05ded5b",PAT HD
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1344332226?profile=pass
+#EXTINF:-1 tvg-id="8c0fa2bd564e95acb28def9ff6d55cc1",Radio Advenir
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1034030988?profile=pass
+#EXTINF:-1 tvg-id="fcbbcaf2601a211f0cb4845a3e873731",Radio Betania
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1925889020?profile=pass
+#EXTINF:-1 tvg-id="e3886288f316cbeeb1e14db3e2cb2ca5",Radio Bethel
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/140675299?profile=pass
+#EXTINF:-1 tvg-id="e5c3d7ab3995ce6ab1468736fb8f7a5a",Radio Cadena Nacional
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/735560677?profile=pass
+#EXTINF:-1 tvg-id="f803f56272e259037e537fd0e928c7c7",Radio Erbol
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1660224504?profile=pass
+#EXTINF:-1 tvg-id="8904bd4c7e27331326771bbd228db9db",Radio Exito
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1287455881?profile=pass
+#EXTINF:-1 tvg-id="a6ffe9ccb0c40c9648987a31fcbfaecf",Radio Fides
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1290403750?profile=pass
+#EXTINF:-1 tvg-id="413f7fcdd3d58e2d5a3395a5403e7ad8",Radio Kantuta Bolivia
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1300184897?profile=pass
+#EXTINF:-1 tvg-id="4ed91b087ba625294c20983e4a5671e4",Radio Kollasuyo
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/136042830?profile=pass
+#EXTINF:-1 tvg-id="e75a72454e5d939d6c72d3295696061e",Radio Lider
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1165122279?profile=pass
+#EXTINF:-1 tvg-id="5eeeb67094c3d49ccafeb9e466bd7fe6",Radio Mi Favorita
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1891036766?profile=pass
+#EXTINF:-1 tvg-id="2f0bba20c94c9a59c680eb869ab78ff7",Radio PIO XII
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/549063471?profile=pass
+#EXTINF:-1 tvg-id="0bf2c3c0cc912997f35eef92a04c99a4",Radio Pluton
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1086583307?profile=pass
+#EXTINF:-1 tvg-id="ac86160883a38dd38fd2c522a0e3199e",Radio RED ACLO
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/135693996?profile=pass
+#EXTINF:-1 tvg-id="fadd920a2581d2452afa2543a2261f85",Radio RPOs
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/177397242?profile=pass
+#EXTINF:-1 tvg-id="2aa92462e4d216f8979f2a7e81d1c559",Radio San Gabriel R
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1646569770?profile=pass
+#EXTINF:-1 tvg-id="fd79120b827b8770d5be54251c9b0163",Radio Santa Cruz - Fundacion
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/185760253?profile=pass
+#EXTINF:-1 tvg-id="067065693ffa9c3ed85bfe51265e40ab",Radio TransMundial
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1768255494?profile=pass
+#EXTINF:-1 tvg-id="3b18b8ed42d2b2a77c12d64d8d85512b",RED 24 HD Bolivia
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1840781371?profile=pass
+#EXTINF:-1 tvg-id="9d26c7b1821d97af7061875239c03d4b",Red Advenir TV
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/835135133?profile=pass
+#EXTINF:-1 tvg-id="e24ba7b50de6edd64a8204d5226a4e7f",Red Cepra
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/900156386?profile=pass
+#EXTINF:-1 tvg-id="4f57334c57c3cdd6dad18118070a7840",RED MISIONES
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1278433103?profile=pass
+#EXTINF:-1 tvg-id="2215875470fc53952b18514666f13af8",Red Radios ARRCB
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1418138914?profile=pass
+#EXTINF:-1 tvg-id="2828831147b11efb7322c5333e966713",Red Uno
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/293808168?profile=pass
+#EXTINF:-1 tvg-id="6300eb234e870019623284b2b178524b",Red Uno
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/602603619?profile=pass
+#EXTINF:-1 tvg-id="17ab04986b873bad2031493d12858df7",Red UNO SCZ
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/402959127?profile=pass
+#EXTINF:-1 tvg-id="142d35581f4da2a9775346400febd794",RTP HD
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1479879956?profile=pass
+#EXTINF:-1 tvg-id="63074e32195ea6fab4d89d5a6acbe716",SEO TV 3
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/843974499?profile=pass
+#EXTINF:-1 tvg-id="0d82e10e6ff7bd21a1338625be4446a5",SEO TV FHD
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/249659917?profile=pass
+#EXTINF:-1 tvg-id="5b9600acb166db06fff5eabfbcf41117",TestH265
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/738235995?profile=pass
+#EXTINF:-1 tvg-id="34055dd7a998e5758da9f4b48af215d9",TL ESTRELLA HD
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1465713972?profile=pass
+#EXTINF:-1 tvg-id="ada6668292075b3962bc2de13f74c96e",TV Universitaria
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/40281773?profile=pass
+#EXTINF:-1 tvg-id="5d9de121504ced701bd2dbe782c8c9d4",TVU Rubi Sucre
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/568434013?profile=pass
+#EXTINF:-1 tvg-id="e1fb3eebe172c0afe02aa377ccb5ed19",TVU Trinidad
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1799289825?profile=pass
+#EXTINF:-1 tvg-id="563e367497228b3304bcfed7364b5baf",UNITEL-SCZ
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1949711958?profile=pass
+#EXTINF:-1 tvg-id="8c4cb81496bf30657b5a8f02d5b6f5bd",XTO TV
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/347622540?profile=pass
+#EXTINF:-1 logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" tvg-id="165e55905440db44769040af2c2f7011" tvg-chno="1",TV-PERU
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/274030102?profile=pass
+#EXTINF:-1 logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" tvg-id="25d3ce5704f39f404f873ce584c3a86c" tvg-chno="2",TV-PERU
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1473172261?profile=pass
+#EXTINF:-1 logo="https://s2.dmcdn.net/w/4rdaY1XIkf2wWkTa0" tvg-id="c31efc3eec332c12d8d28e912a752b32" tvg-chno="3",PANAMERICANA
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1056710339?profile=pass
+#EXTINF:-1 tvg-id="ed61de7e6cc706c116a29161e3d707f5" tvg-chno="10",ABTelevision (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2128503277?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/CsW4Op8.png" tvg-id="b855b21db37f0ab0ed4ce43c9f4f2c3e" tvg-chno="11",Andes Televisión (Sicusani) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/498226616?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" tvg-id="b6ea8f20449e5b7b4c4af4a97bfd6120" tvg-chno="12",Anime Zone TV (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/546302646?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/antaresTvRadioOficial/picture?width=320&height=320" tvg-id="992aa41a25bb6e15f2329b3e1e2535f2" tvg-chno="13",Antares Televisión (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/446966425?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" tvg-id="c27fe4df0781721b5ea2f6dc18f91ef7" tvg-chno="14",AsiriTV (Lima) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1608810434?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/ATMTelevisionApurimac/picture?width=320&height=320" tvg-id="dcb8caa86d4a938848fcb23e4614071c" tvg-chno="15",ATM Televisión (Apurimac) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/684374236?profile=pass
+#EXTINF:-1 logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" tvg-id="2f5ef420371f29df78fd11975f1171b8" tvg-chno="16",AXN Latinoamérica (576p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/552885807?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/2135035553436599/picture?width=320&height=320" tvg-id="7753a657ca49ce1e13b141abda73a937" tvg-chno="17",Bella Abanquina TV (Apurimac) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1470518135?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320" tvg-id="afaaca6d7d380073a9ba88be6243dd79" tvg-chno="18",Best Cable Más Cumbia (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1841998511?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/BestCableMusicCanal97/picture?width=320&height=320" tvg-id="671520caddfdd8b8d08d55fb3de27724" tvg-chno="19",Best Cable Music (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1243616615?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/BestCableTvCanal3/picture?width=320&height=320" tvg-id="24bca57374c682dd382a2712a1af37dc" tvg-chno="20",Best Cable Perú (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1940241444?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" tvg-id="88c8029084e664872c9d311fcace759b" tvg-chno="21",Best Cable Sports Perú (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/268617864?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/d9n0sOZ.png" tvg-id="114c79e95d4266b2abbc8664294bc551" tvg-chno="22",BeXtreme TV (Lima) (1080p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1769557009?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7hP4nps.png" tvg-id="84d844740b22109fe143980530048de1" tvg-chno="23",BHTV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1950668932?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/bellezandina/picture?width=320&height=320" tvg-id="75812dbe807ecef574e7569a1b796809" tvg-chno="24",Cable Netword Belleza Andina TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1043169653?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/limanortenoticias3/picture?width=320&height=320" tvg-id="2a187da59e056cf3c967a40acafdc013" tvg-chno="25",Cable Netword Cumbia TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/628955178?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/limanortenoticias3/picture?width=320&height=320" tvg-id="a258faa2a70652170f90af4b5dbb34ca" tvg-chno="26",Cable Netword TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/586832034?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/CajamarcaTV/picture?width=320&height=320" tvg-id="77e367a74458986b565694579c1f9736" tvg-chno="27",Cajamarca TV (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/661119863?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/canal8catacaos/picture?width=320&height=320" tvg-id="c39a1e5e80661f830c03b82666183563" tvg-chno="28",Canal 8 (Catacaos) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1579064003?profile=pass
+#EXTINF:-1 logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" tvg-id="be657431a0be2e120fbba86add675c74" tvg-chno="29",Canal 26 (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/829711806?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" tvg-id="f88f437f57ae1580e420a8fd555b3699" tvg-chno="30",CANAL IPE [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2135134200?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" tvg-id="9a45492410c5e054bf5791ee48055d27" tvg-chno="31",Central TV (Chosica) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/608781722?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/FI1Hd4E.png" tvg-id="cac029b0d44357f9d2a6cc7b46f0c48e" tvg-chno="32",Chicos IPe [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/808042698?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/clipstv/picture?width=320&height=320" tvg-id="b45f03d27ac492e05478402fb947e9ba" tvg-chno="33",ClipsTV (Ica) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1375952820?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/cnc.digital.pe/picture?width=320&height=320" tvg-id="eb5d9abd641a3aa5b38a2700917bd358" tvg-chno="34",CNC Digital (Iquitos) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1033526763?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/RadioConecta2/picture?width=320&height=320" tvg-id="68545df6fe6e52b1c3192f0411deb8b1" tvg-chno="35",Conecta2TV (Lima) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1985827944?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/crtvmoyobamba/picture?width=320&height=320" tvg-id="df43fb4daf6b3f821cccba5d3f577eb1" tvg-chno="36",CR Television (Moyobamba) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1308312543?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/CanalCreoTv/picture?width=320&height=320" tvg-id="d25b322ec2261c2e88d53d7d74a998a3" tvg-chno="37",CreoTV (Cajamarca) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/775052242?profile=pass
+#EXTINF:-1 logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" tvg-id="c62ee2ca7347e7a8ce993b5efc18d3f0" tvg-chno="38",CubaVision Internacional (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1256337094?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/2mSwwpH.png" tvg-id="7205266602308cc17236852f1991bb2d" tvg-chno="39",Cultura 24 (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1713767794?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/diariohechicera/picture?width=320&height=320" tvg-id="28bc754de6e4e1c73585e0635f4d5c6d" tvg-chno="40",Diario Hechicera (Tumbes) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1299561512?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" tvg-id="242a08f53d034c7fb254092867c2b9da" tvg-chno="41",DMJ (Cuzco) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1963469348?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/DTVtelevisiondigital/picture?width=320&height=320" tvg-id="33d8bb0452efdca9f70f9042d3a26d6c" tvg-chno="42",DTV (Junin) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/79419443?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/A1xzjOI.png" tvg-id="4f77bcd68bf4adf69607f4cba198e491" tvg-chno="43",DW Español (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1455191887?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/cd0hP5e.png" tvg-id="190dc95323c583325f75af9211556814" tvg-chno="44",El Garage TV (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1405685017?profile=pass
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" tvg-id="754b015e4ff08a239b83fd2ecfef2531" tvg-chno="45",EWTN el Canal Católico (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1577143157?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" tvg-id="92921fa8660457f0217315e0c2b49c01" tvg-chno="46",Exitosa TV (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/673157778?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/telesurexpresion/picture?width=320&height=320" tvg-id="253bab79e47940ef7a9eaa74f321e7c2" tvg-chno="47",Expresión (Tacna) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2041264933?profile=pass
+#EXTINF:-1 logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" tvg-id="4960c48654d4ecbd494cae67fc0020df" tvg-chno="48",Fox Sports 2 Latin America (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/113533001?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-id="7d07e6b63d66b01cb504bf813395e617" tvg-chno="49",France 24 Español (576p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/921044861?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/FUEGOTVLIMA/picture?width=320&height=320" tvg-id="edf38bda46268be49fd37d1b7e285aaa" tvg-chno="50",FuegoTV (Lima) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1519121389?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/GacetaUcayalinaTelevision/picture?width=320&height=320" tvg-id="6fee5329316fe36cdff9e7b24c1e3ab1" tvg-chno="51",Gaceta Ucayalina [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/693366383?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/RCGalacticatv/picture?width=320&height=320" tvg-id="f9ac13cf8ed9be924f58c90e19dab0e8" tvg-chno="52",Galáctica TV (Peru) (2160p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1326689529?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" tvg-id="ec8f7ff862fb74f3cce5dd01f7c2096d" tvg-chno="53",Genios TV (Moyobamba) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2021625836?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/Goldvalleytvcasma/picture?width=320&height=320" tvg-id="3abf740579955db5c077513c5e1cfbbf" tvg-chno="54",Gold Valley TV (Casma) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/91537210?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj" tvg-id="2343b4bbb91218e7162bf72abf92d550" tvg-chno="55",Hatun TV (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1001669411?profile=pass
+#EXTINF:-1 logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" tvg-id="4452fba68be2c438228d1d141a127226" tvg-chno="56",HispanTV (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/654004804?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/huachotvperu/picture?width=320&height=320" tvg-id="263f3290165806768c9dabbe02926d73" tvg-chno="57",Huacho Perú TV [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/271728422?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/IDENTIDADTVOFICIAL/picture?width=320&height=320" tvg-id="6710ff44aab8ec2391685aa452d40b3b" tvg-chno="58",Identidad TV [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1157566567?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/104338684346756/picture?width=320&height=320" tvg-id="a435f56286d073fa6bbf7e1d8f86fa1c" tvg-chno="59",Imagen Televisión (Rioja) (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1660237220?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/Inkavisionoficial/picture?width=320&height=320" tvg-id="01a0f231974cd4906173aafe1e8b9032" tvg-chno="60",Inkavisión (Cuzco) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/837984257?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/RadioInnovaSeSiente/picture?width=320&height=320" tvg-id="e674f4c6a1068cdf8b7874c7d0057932" tvg-chno="61",Innova FM (Bagua Grande) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1190425830?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/canaljn19tv/picture?width=320&height=320" tvg-id="e989b20ba10def8921bbbabf99ffe3ab" tvg-chno="62",JN19 (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/196250089?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/JNE.Peru/picture?width=320&height=320" tvg-id="faaaf92ed0948ec721d293be626b78c2" tvg-chno="63",JNE TV [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/788114170?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/kallparadiotv/picture?width=320&height=320" tvg-id="1641c313c6eb44d8f915deb3f4c471bc" tvg-chno="64",Kallpa TV (Chimbote) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/331563286?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300" tvg-id="579649ad07b26b03ba9e4c3c3326ea34" tvg-chno="65",Kanade TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/759797335?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" tvg-id="452892a4fb7d721abd2438cf88a07624" tvg-chno="66",Karibeña (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/613558341?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" tvg-id="85e53c48ddbb1005b5e88e8f1aca8905" tvg-chno="67",KBO Quillabamba [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1211950469?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/JJRODRIGUEZKORARTV/picture?width=320&height=320" tvg-id="6c3b94f926f21a55235bb4f2f8f9f166" tvg-chno="68",Kora TV [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2039757676?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/lariberenapucallpa/picture?width=320&height=320" tvg-id="a341138b20d2a3f2a606235876d38ca9" tvg-chno="69",La Ribereña (Pucallpa) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/185811363?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" tvg-id="9b98d7bbedbf255e1677f0eaedd9a4ff" tvg-chno="70",Latina (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1003985051?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/liveperutv/picture?width=320&height=320" tvg-id="b5af62c43a70a0a544b30de4b8843913" tvg-chno="71",Live Perú TV Streaming [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1147318197?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/auEJJvP.png" tvg-id="0e1b6ef7ba95f8ded601d3717a4b2c0d" tvg-chno="72",Locomotion TV (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2003704590?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/Lotplustv2021/picture?width=320&height=320" tvg-id="d72adc7af51f2130be11e12af42f6dba" tvg-chno="73",LotPlus TV (Chiclayo) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2061249239?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/169404973238869/picture?width=320&height=320" tvg-id="da46cd7c205e6e4eabf2e06c54a9a35c" tvg-chno="74",Master TV (Tarapoto) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2093827802?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/MTVAQP/picture?width=320&height=320" tvg-id="e3daed78350bd240a3d2fba197f0215e" tvg-chno="75",Mega TV (Arequipa) (360p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2028853987?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/megatvjaen/picture?width=320&height=320" tvg-id="528df75b71417016097f2669c7a93fb5" tvg-chno="76",Mega TV (Jaen) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1542950226?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/zYpMHhQ.png" tvg-id="34ffe5c7af543ecbf81092dcbd67b023" tvg-chno="77",Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1206255412?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/milleniumradiotv/picture?width=320&height=320" tvg-id="070e18de9d7ff6845abe21907711e0d1" tvg-chno="78",Millenium 109 FM (Lamas) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1578634759?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/mineduperu/picture?width=320&height=320" tvg-id="44d86fd78e8030f70346b0703091c35f" tvg-chno="79",MINEDU IPTV 1 [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1466947652?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/mineduperu/picture?width=320&height=320" tvg-id="1f9fcdbd900cb33a952494480da5b76a" tvg-chno="80",MINEDU IPTV 2 [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1036885791?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/ModaHuancayoTv/picture?width=320&height=320" tvg-id="6835f52732aa0b847a1db46d1178a89c" tvg-chno="81",Moda Huancayo TV [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/670381416?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" tvg-id="444007b266ed35b9d39a09f17bf6664a" tvg-chno="82",Monterrico TV (1080p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/839336004?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/hwaLKuJ.png" tvg-id="c80d017b31af100e35b6a4e0901afd51" tvg-chno="83",MTV Hits Latinoamérica (576p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2063666632?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/nazarenastv/picture?width=320&height=320" tvg-id="c1340b5889ce57e219e8292a92f7faf0" tvg-chno="84",Nazarenas TV [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1477129409?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/NUESTRATVPERU/picture?width=320&height=320" tvg-id="c02f1646c6b1ffb65bf4ed8a3e1832ff" tvg-chno="85",Nuestra TV (Lima) (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1175859136?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/exdDHml.png" tvg-id="fa00fe598f67d5362fd4763c775db45f" tvg-chno="86",Nuevo Tiempo (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1509818618?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/OKTelevision.pe/picture?width=320&height=320" tvg-id="21d9a0b7e773eadcd4386f8c07ec37a5" tvg-chno="87",OK TeVe (Yurimaguas) (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/933288225?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/omegatvyurimaguas/picture?width=320&height=320" tvg-id="84a86447bb34ad75413100f64ef59f3a" tvg-chno="88",Omega TV (Yurimaguas) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1197779076?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/3R2emx7.jpg" tvg-id="58e80a751ab5ab785185073f46b2993a" tvg-chno="89",Onda Digital (1080p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1963649112?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/ovacionperu/picture?width=320&height=320" tvg-id="9d7c115ff44fa4954d12c898d325b83c" tvg-chno="90",Ovación TV (Lima) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1594981533?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQbue1WVK5s0ne8sFBVwxf6u7-TbKAdPjK-YCHI8g=s400-c-k-c0x00ffffff-no-rj" tvg-id="17852502c10a71e122083c42ed19f5cd" tvg-chno="91",Pakapaka [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/36013335?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/uQhEDES.png" tvg-id="9296f2a544bcc7646aae87c37ad9a78b" tvg-chno="92",Panamericana TV (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/636655250?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/B89KuHO.png" tvg-id="4a49d9474cbd10d860059340e4d02f0c" tvg-chno="93",Pax TV (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1205422410?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/PBOPeru/picture?width=320&height=320" tvg-id="f726c837a5c4099594aa2352f41456e5" tvg-chno="94",PBO Digital (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/935864055?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/01KEiEp.png" tvg-id="00f64387448de429473fb68c432fda84" tvg-chno="95",Perú Channel (430p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/121894400?profile=pass
+#EXTINF:-1 tvg-id="438051b2d2dbd3c10b401e14e55c943b" tvg-chno="96",Peru Magico
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/844202051?profile=pass
+#EXTINF:-1 logo="https://peruvianradiotv.pe/wp-content/uploads/2021/03/Logo-Peruvian-6.png" tvg-id="7dc670d174427be9ceee3e87cc721943" tvg-chno="97",PeruvianRadio TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1366345341?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/planeatvperu/picture?width=320&height=320" tvg-id="998dc012e655ce11ce4c4fe086f52d90" tvg-chno="98",Planeta TV Bagua (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/314609049?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/PlanetaTeleInformativo/picture?width=320&height=320" tvg-id="264a6750e5dcf9e7b78ae80d6cea4771" tvg-chno="99",Planeta TV Moyobamba (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1348946470?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/radioprimaveramoquegua/picture?width=320&height=320" tvg-id="5b2e5e84657c477b561da3c8017142fa" tvg-chno="100",Primavera 15 Radiotelevisión (Moquegua) (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/73281115?profile=pass
+#EXTINF:-1 tvg-id="0572833bc0506a5738b790db33cdc8f7" tvg-chno="101",Project Boom
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/998470149?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/101589915090069/picture?width=320&height=320" tvg-id="5364bea15b7cac00ecfd338c0409670a" tvg-chno="102",Proyecta Televisión (Huacho) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/566125651?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/QTTelevision/picture?width=320&height=320" tvg-id="5da122015813f56cfd5aa03ac506ddb7" tvg-chno="103",QT Televisión (Cuzco) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/19046749?profile=pass
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/572791252093919232/DKxHh5Oj_200x200.png" tvg-id="e998e7744cbd4e6da61c670b973323ee" tvg-chno="104",Quattro TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1961335017?profile=pass
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/572791252093919232/DKxHh5Oj_200x200.png" tvg-id="cec5e457d7a838c791e793159a6a691d" tvg-chno="105",Quattro TV (720) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1474610638?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/459651607763457/picture?width=320&height=320" tvg-id="493129437b17e3c06c814018b172a5fc" tvg-chno="106",Quillavision (Cuzco) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1126773065?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/radiolibertadarequipa/picture?width=320&height=320" tvg-id="fdfd7d49b93fe936d4fd2a77a5a49510" tvg-chno="107",Radio Libertad (Arequipa) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1232993789?profile=pass
+#EXTINF:-1 tvg-id="8a41deeaaf17d24aae15790651fb4fe7" tvg-chno="107",TV PERU
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1792950666?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/1260738527355956/picture?width=320&height=320" tvg-id="c6a0217e8279bed6642dae15065f8caa" tvg-chno="108",Radio Pachatusan (Cuzco) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2116133062?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" tvg-id="82530ecbedae07b7ff0b6605a9f6dc7d" tvg-chno="109",Radio San Borja TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1259230082?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/radiosistema/picture?width=320&height=320" tvg-id="2106d1fe92afbb0782b32de20cc5f35a" tvg-chno="110",Radio Sistema (Ica) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2127627809?profile=pass
+#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1331243814548287489/RCVGVH6L_400x400.jpg" tvg-id="bea4270fa975f3cfdeb7dd9aba67dd51" tvg-chno="111",Radio Tropical Tarapoto (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/254256318?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/BinacionaltvGo/picture?width=320&height=320" tvg-id="7b349a27263930aa5b294d7cada4bde9" tvg-chno="112",Radio TV Binacional (Desaguadero) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/664417403?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/74HCPRODUCCIONES/picture?width=320&height=320" tvg-id="a09feecb09236b0d5085f16951cf21d6" tvg-chno="113",Radio TV Juanjui [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1273929632?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/radiouno.pe/picture?width=320&height=320" tvg-id="039977d70e0e5d067d23087fbd67f451" tvg-chno="114",Radio Uno (Tacna) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1467455747?profile=pass
+#EXTINF:-1 tvg-id="fd23a3078c665ea78472831d033a6546" tvg-chno="115",Radio Xtrema [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/128132093?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/www.roriente.org/picture?width=320&height=320" tvg-id="f67f8655dfc3210c99629f8afd76f868" tvg-chno="116",RadioTV Oriente (Yurimaguas) (1080p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1434877942?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/i0rZsgG.png" tvg-id="bf54b82d738deb980288d8ce82f47921" tvg-chno="117",Retro Plus (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/767055039?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/i0rZsgG.png" tvg-id="1092655747de3149158cf7d0b239d2c8" tvg-chno="118",Retro Plus 2 (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1466274320?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/lariberenabellavista/picture?width=320&height=320" tvg-id="9a0389dcd3974c2193e8ff6ad8abe69f" tvg-chno="119",Ribereña TV (Bellavista) (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1552483226?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/rnyurimaguas/picture?width=320&height=320" tvg-id="1c308154b53f3a32c9cf9f57caa3330e" tvg-chno="120",RN Televisión (Yurimaguas) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1417752604?profile=pass
+#EXTINF:-1 tvg-id="e491b8f8204d80942df5bf9f8ba8d34d" tvg-chno="121",RPP
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2025361892?profile=pass
+#EXTINF:-1 tvg-id="044ab48505db9414a170b6baa61d40fe" tvg-chno="122",RT en Español (1080p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/95701508?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/rtvtotal/picture?width=320&height=320" tvg-id="c5c2b1b0e44a6fb9ba93285e9ae0d5d8" tvg-chno="123",RTV Total (Yurimaguas) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/816956101?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/rwtelevision/picture?width=320&height=320" tvg-id="8a201b26950f73cb8ca022ed9cc40609" tvg-chno="124",RW Televisión (Tarapoto) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/639312010?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/103910101231367/picture?width=320&height=320" tvg-id="bd52c98439061e3e752d25d9064ea162" tvg-chno="125",SelvaMía TV (Aguaytía) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/80302781?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/sistema1tv/picture?width=320&height=320" tvg-id="271615aa9c0ececaf302652e42858485" tvg-chno="126",Sistema 1 (Huaraz) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/706024999?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" tvg-id="a099c63da9f70f1621edb808d9a2f3a0" tvg-chno="127",Sol Stereo TV (Casma) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1036425632?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/TELEVISIONSOLAR/picture?width=320&height=320" tvg-id="fb555e93514edf4f7a6d18d666a1d272" tvg-chno="128",Solar Televisión (Abancay) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/324949499?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/somostelevision/picture?width=320&height=320" tvg-id="3aa687523055a17d9ec5057989abdbeb" tvg-chno="129",Somos Televisión (Chimbote) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1384621626?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/StereotvOficial/picture?width=320&height=320" tvg-id="25ef905d0b0d668c416171b22e5e59bc" tvg-chno="130",Stereo TV (Peru) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1569779493?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/sumac2021/picture?width=320&height=320" tvg-id="f5ebceebe1cd8a18be904968291928ec" tvg-chno="131",Sumac TV (Lima) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1808722933?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/supercanalyuri/picture?width=320&height=320" tvg-id="dbfdeb65b723a5fe6b13580de6b163fb" tvg-chno="132",Super Canal (Yurimaguas) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1709964763?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/surtvilo/picture?width=320&height=320" tvg-id="71b7f2ba988b7badebcf7ae221dc6ce3" tvg-chno="133",SurTV (Ilo) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/988985201?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/8s6aRwv.png" tvg-id="78b6b16856d8cb60c531ef8a886bfb19" tvg-chno="134",Tastemade en Español (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1756477048?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/Tele2000oficial/picture?width=320&height=320" tvg-id="5d6d59298eeb0b88a9176702c7034d2d" tvg-chno="135",Tele2000 (Ayacucho) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/693726557?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/x5Mdzwv.png" tvg-id="78e778ea0e76dbf94e6d8774a38ab32e" tvg-chno="136",teleSUR (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1786308472?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/telesurexpresion/picture?width=320&height=320" tvg-id="a9d217274f696c5a916aaefe6a356ba0" tvg-chno="137",Telesur (Camana) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/655872681?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/telesurexpresion/picture?width=320&height=320" tvg-id="bb32cf99016ccc9b14ee6f9047223471" tvg-chno="138",Telesur (Ilo) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/433009339?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/telesurexpresion/picture?width=320&height=320" tvg-id="2c1234f0a9083334950d8b6abd1d2f87" tvg-chno="139",Telesur (Mollendo) (240p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1882460716?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/telesurexpresion/picture?width=320&height=320" tvg-id="71163121169f8ec5a35ceb805a45a592" tvg-chno="140",Telesur (Moquegua) (360p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/556865137?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/telesurexpresion/picture?width=320&height=320" tvg-id="91cc5a9e2891a9cdc81432f9d78cf1e8" tvg-chno="141",Telesur (Tacna) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/509267089?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/televisiontarapoto/picture?width=320&height=320" tvg-id="573e4561133bdb54be1cc01c4f7575ba" tvg-chno="142",Televisión Tarapoto (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1631927895?profile=pass
+#EXTINF:-1 tvg-id="dbed1a5475c7e6820a7bc833ca27e8b2" tvg-chno="143",TelSatel Cine TV (Arequipa) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1411050971?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/radiotopf/picture?width=320&height=320" tvg-id="156323d49ab37f8fddd67228bdb5ab57" tvg-chno="144",Top FM TV (Atalaya) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1411605269?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" tvg-id="7a515129f1457acf92740a022dacf969" tvg-chno="145",Top Latino TV (404p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/693195130?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/TPTOCHANNEL/picture?width=320&height=320" tvg-id="531d99e835e2d9e60cfdcf791843a208" tvg-chno="146",TPTO TV (Tarapoto) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1754864979?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/radiotropical105.7fm/picture?width=320&height=320" tvg-id="af3259053b4d2dde69adbe87e07b6519" tvg-chno="147",Tropical TV (Puerto Maldonado) (360p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/89731759?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/tumpisperu/picture?width=320&height=320" tvg-id="bd44820a453997f82ee2e63c28ee1781" tvg-chno="148",Tumpis TV (Tumbes) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/176309437?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/235129376518344/picture?width=320&height=320" tvg-id="ab0d29e42acfd2cf11140d1ae8537d1c" tvg-chno="149",Turbo Mix Radio TV (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1680412075?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/panoramanoticiasandahuaylas/picture?width=320&height=320" tvg-id="8020ac327b33e7cf08524f7094259748" tvg-chno="150",TV Andahuaylas [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/850141312?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/TV6Huarmey/picture?width=320&height=320" tvg-id="4d75bc389e534db68f79b5a6e299342a" tvg-chno="151",TV Huarmey [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/951874893?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/tvnorte7/picture?width=320&height=320" tvg-id="6ff1392bf14b3528e695c7e9984553be" tvg-chno="152",TV Norte (Chiclayo) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/725217647?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="bfbfe5666667530d74eb15dfefa5f3e1" tvg-chno="153",TV Noticias 7.3 (614p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1726332863?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/Noticias.TvPalmeras/picture?width=320&height=320" tvg-id="6d844a8316841a1e2ddca56dae8bc04e" tvg-chno="154",TV Palmeras [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/55215213?profile=pass
+#EXTINF:-1 logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" tvg-id="f51369093af790d393713381fd1b8663" tvg-chno="155",TV Perú (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/157881333?profile=pass
+#EXTINF:-1 logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" tvg-id="2cb09c84ee1caf8bccf16b1567248f4b" tvg-chno="156",TV Perú Noticias [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/77377580?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320" tvg-id="100be803717c779a82db3c3bf87ea8a7" tvg-chno="157",TV Peruanísima (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/65538832?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/492483611619635/picture?width=320&height=320" tvg-id="26076d02cf007b8cb621ea2164b13f57" tvg-chno="158",TV Sensación (Tacna) (1080p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/40699686?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/TVSISTEMASCUSCOPERU/picture?width=320&height=320" tvg-id="d8a427fb6feff4ce1f677c91832303cc" tvg-chno="159",TV Sistemas Cuzco (Cuzco) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2066195672?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/1Z6svKc.jpg" tvg-id="506355ddbf245bbbe792ead7d840bf96" tvg-chno="160",TVG América (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1565877072?profile=pass
+#EXTINF:-1 tvg-id="f85d7d17cf74c201a58ea57aa36059de" tvg-chno="161",Uchu TV (Cusco) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/394092024?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/uncanalinteligente/picture?width=320&height=320" tvg-id="278c23eef1eb7ef937fb51cd1834abc9" tvg-chno="162",UCI (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1847823399?profile=pass
+#EXTINF:-1 logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" tvg-id="efc28f1f6d4b1a1be1da623ca8127b2e" tvg-chno="163",UCL TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/529515247?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/Unitelperu/picture?width=320&height=320" tvg-id="6940eb82fc4d6c54b68d48fca30c1636" tvg-chno="164",Unitel (Huancayo) (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/48971881?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/universitariatvchanchamayo/picture?width=320&height=320" tvg-id="90177a6fff70c9cbe3b49293d4584f78" tvg-chno="165",Universitaria TV (Chanchamayo) (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1870272400?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/uraniotv/picture?width=320&height=320" tvg-id="37782f59c12bc154fb02ec91b6f1f06a" tvg-chno="166",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1496283191?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/usiltv/picture?width=320&height=320" tvg-id="fcb606ddec848f0672c2979df329682c" tvg-chno="167",USIL TV [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1560721148?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/RadioVamisaTelevision/picture?width=320&height=320" tvg-id="8f51790ff3bdaa24995a7436f70ef10b" tvg-chno="168",VamisaTV (Lima) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/259608975?profile=pass
+#EXTINF:-1 tvg-id="e6ddbdfe883153db031bbdb6d541afaa" tvg-chno="169",Vía Altomayo [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2126372326?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/viatelevisionperu/picture?width=320&height=320" tvg-id="385aeca8b5ec795c44142538c6b126c4" tvg-chno="170",Vía Televisión (Tarapoto) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/686578232?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320" tvg-id="b703017e0196067bc8dcc36cddda78d5" tvg-chno="171",Visión Noticias Perú (VNP) (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2113995703?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/visiontvmusica/picture?width=320&height=320" tvg-id="74012923f9072102f0a2398869f455b2" tvg-chno="172",Visión TV Musica (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/589889908?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/willaxtv/picture?width=320&height=320" tvg-id="4cce4ebb1610d8873a212d3658be035a" tvg-chno="173",Willax (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/995020364?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/canalxtvperu/picture?width=320&height=320" tvg-id="3f52659a3aee2f3ef690d70ac441c627" tvg-chno="174",X TV (Chachapoyas) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/442847807?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AAUvwnhXY-iIvV4naxL4WWuS_JQKOqfjqwSgzMswGp4aJUc=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="6925cfb7e33a99260d79feac3c196165" tvg-chno="200",DW Español1
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/936322409?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLShZTWiRbjjA55vk5U0b8CgIAKM8uojS1D3limL=s48-c-k-c0x00ffffff-no-rj" tvg-id="ca9898634aa5cf76a5d02c7f84cf9d8b" tvg-chno="210",NICK JR. ESPAÑOL
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1670944970?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRJPpZk1EJSXOa6My3F10Kji_b6pUUXMPriZvqGSA=s88-c-k-c0x00ffffff-no-rj" tvg-id="9fa9136719112b520d3b24c86b10aeb0" tvg-chno="212",TELEFE CORDOBA
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1729341855?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQ9sUdDBUS9FQsh41am5MNazSmkWunhoqUPJUbC=s48-c-k-c0x00ffffff-no-rj" tvg-id="9d2bb8fbcf5c9dd387066e29e1161c6f" tvg-chno="213",Héroes en Pijamas
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2075667357?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLR9XVHCvbmi1XBOOMVvN9Ycf5k0qkj19AeZwEiQlaY=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="34762288e5b316402e1411ca7dbffcec" tvg-chno="215",RT ESPAÑOL
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/136476212?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/EGbgl1gHSxzJPjRyxuKg2pypyDsV8fTJQ-BR6wJw41XRoCeEVOjAnmth_E7Z2neruFpTGC-t=s48-c-k-c0x00ffffff-no-rj" tvg-id="2780ee6cf9838d9c2cd0141704ad9484" tvg-chno="216",CARACOL
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1827569703?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="2a80ac1bd96ac0c5acf07afc25e849de" tvg-chno="218",EXITOSA TV
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/464289834?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLSbBPoxvbkcPgoHtRENtZA5mI_3impCInyevH1g=s48-c-k-c0x00ffffff-no-rj" tvg-id="969d657c75b61cddd3b5fe635a80ff21" tvg-chno="219",TELEVISA MEXICO
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2087034262?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLRMVylbUmUDYvs2Qh2FslWFKzDWNh9fM1VaqJIW1w=s176-c-k-c0x00ffffff-no-rj-mo" tvg-id="f91e6c6b4817ee2f401a4f7a8bc60ae2" tvg-chno="220",CBN ESPAÑOL
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1802247929?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/j_fbqcaoU-zUhI5hpFoz3xv94S1e8zkVJ8dQxRrP0jc0Uy79IHTN88dFgbLuaPiA0ylzhdS8qA=s48-c-k-c0x00ffffff-no-rj" tvg-id="0f7d858e941a62bb8fe92d5cc5ca0082" tvg-chno="221",RPP
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/243629327?profile=pass
+#EXTINF:-1 logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" tvg-id="c4e0966d3d706bd8b0c448454e49b837" tvg-chno="5000",A+ TV (XHTIT-TDT) (432p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1838604484?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/x8lwsjM.png" tvg-id="f2fdee62cdceb9410164544a9d8761ed" tvg-chno="5001",ADN 40 (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1659829746?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9Xn7ZEZ.jpg" tvg-id="3a7ba24a64b24b5dc4d8c072b9c8dec2" tvg-chno="5002",Alcarria TV (576p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1252162362?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/snIU1UA.jpg" tvg-id="e7d1e11150244a50b3121899ee3ce651" tvg-chno="5003",AMX Noticias (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/300012007?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" tvg-id="130932a53bfae6da389e6469ebefc2b1" tvg-chno="5004",Anime Zone TV (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/624036115?profile=pass
+#EXTINF:-1 logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" tvg-id="2c1991ca052fe98fe3c96bbc39b6ec80" tvg-chno="5006",Azteca 7 (XHTIT-TDT) (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1251023148?profile=pass
+#EXTINF:-1 logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" tvg-id="4b483b883d72cc0fbf401106f7677b5d" tvg-chno="5008",Azteca Uno (XHJK-TDT) (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/138102859?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mw4992J.png" tvg-id="7978cb5889d5780da30ee81f4994392b" tvg-chno="5009",Canal 5 (XETV-TDT) (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1489729657?profile=pass
+#EXTINF:-1 logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" tvg-id="35dfb962c3540174b0a21c9ad42fc677" tvg-chno="5010",Canal 10 Cancún (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1656348469?profile=pass
+#EXTINF:-1 logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" tvg-id="0c9d84e709475454ac562978f7457514" tvg-chno="5011",Canal 12 (XETW-TDT) (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1736744204?profile=pass
+#EXTINF:-1 logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" tvg-id="3cb26f7bddf1f15b97ce14dfe5aa5b61" tvg-chno="5012",Canal 26 (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2070917692?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/lr4MZFg.png" tvg-id="59456e5996941d3c788038a3c3cd56bc" tvg-chno="5013",Canal 28 (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1500398937?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/YDp8MlN.png" tvg-id="78a376396a86d694b2c0a358432fe1ab" tvg-chno="5014",Canal 44 Chihuahua (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/964076408?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/YDp8MlN.png" tvg-id="f89094ba4e30196d532f5184efda47e1" tvg-chno="5015",Canal 44 Ciudad Juárez (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/982814968?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Canal45Tijuana.png" tvg-id="17514b669fa26bcd7cb8622766608149" tvg-chno="5016",Canal 45 (XHBJ-TDT) (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1716211991?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" tvg-id="1b8cc8ba5ae4202749c9766d48827efa" tvg-chno="5017",Canal Catorce (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/986221595?profile=pass
+#EXTINF:-1 logo="https://www.lasestrellas.tv/assets/08680ecc38e44f53/images/icn_lasestrellas_512x512.png" tvg-id="39e1c6dea69e9cf53a13a65985dd715f" tvg-chno="5018",Canal de Las Estrellas (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1590092089?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9BtSyV2.png" tvg-id="c4d1ab4b8ef77546dc601cd704325792" tvg-chno="5019",Canal Mundo+ (560p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1269551556?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/P1pHy3j.jpg" tvg-id="07eac456b25d5f5f63c1cbfbe3df84c8" tvg-chno="5020",Capital 21 [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1455745543?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9TGQZzk.png" tvg-id="88341db4d20eb4491f6071a0035325a0" tvg-chno="5021",Conecta TV (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/874329224?profile=pass
+#EXTINF:-1 logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" tvg-id="30ee5addefa3620ab05256d01f5687bb" tvg-chno="5023",CubaVision Internacional (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1566240304?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/A1xzjOI.png" tvg-id="3853301a55a20d6eb7596138b82b0037" tvg-chno="5024",DW Español (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/439374648?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/cd0hP5e.png" tvg-id="aa2dd20049420789360996de3e85d890" tvg-chno="5025",El Garage TV (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/13774250?profile=pass
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" tvg-id="7eef8554eb6c3a693f760975131b7cc2" tvg-chno="5026",EWTN el Canal Católico (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1418063742?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-id="cfde00f71802c2af39166531a245ed1b" tvg-chno="5028",France 24 Español (576p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1996545743?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/hMtKE60.png" tvg-id="d045da15841e0a69ad90c71aa3333091" tvg-chno="5029",Genesis TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/366626256?profile=pass
+#EXTINF:-1 logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" tvg-id="0f53c144390d3c8f893fe74ccee544f5" tvg-chno="5030",Hipódromo de las Américas (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1153520399?profile=pass
+#EXTINF:-1 logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" tvg-id="3fe3bb26ec069393c11299a15a4f3616" tvg-chno="5031",HispanTV (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/649847615?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Dru29kQ.png" tvg-id="a3f30e494f4583ea427635c1967f2f72" tvg-chno="5032",Icrtv Colima (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1225716643?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/KDZ50eC.jpg" tvg-id="a8ec19cac137c72e1c089a936684e1a0" tvg-chno="5033",Imagen Multicast (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1243212968?profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png/800px-Logo_Imagen_Televisi%C3%B3n_2016.png" tvg-id="b80036aa53f3c9d7f3d9d10ab67a7606" tvg-chno="5036",Imagen TV (XHCTTI-TDT) (1080p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/708182200?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/N4meE8I.png" tvg-id="d0e5f7bd4afed5291ef0118051f733e3" tvg-chno="5037",Jalisco TV (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1039656400?profile=pass
+#EXTINF:-1 logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300" tvg-id="83a433dd850f4d6b3f52e2b8eed0f477" tvg-chno="5038",Kanade TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1563665539?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/auEJJvP.png" tvg-id="50a605d86b1f67cf56ab98434e1ecd53" tvg-chno="5039",Locomotion TV (480p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1476765264?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/bLSCeSB.png" tvg-id="ef67c5e54d4a9c3a4de190ce1d4b5968" tvg-chno="5040",María Visión Mexico (1080p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1707436015?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/OzVUVoX.jpg" tvg-id="c7846c5cac6ff44dde3276cb3d13f009" tvg-chno="5044",Monte Maria (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1550615751?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mty0mgJ.jpg" tvg-id="1adce4268805b2ad224e30c20b70ac4c" tvg-chno="5045",Moovimex (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/652532762?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/AdP9s9a.png" tvg-id="17a1480ebf2aa6f85e2ed665069072a1" tvg-chno="5047",MVM Noticias (Oaxaca) (400p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/239640855?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/y4akKrD.png" tvg-id="91e5dca66a82a0b0f4c42672d864e024" tvg-chno="5048",Noticias Canal 10 (360p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/652010897?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/exdDHml.png" tvg-id="0f3f4b9926393c81fef72f13f263dd6f" tvg-chno="5049",Nuevo Tiempo (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/424361743?profile=pass
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU" tvg-id="dd8f66137aff805b4b360714629d8436" tvg-chno="5051",POP TV (542p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/325488605?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/1qrh5SC.png" tvg-id="91513f3dccc2a3bddae03c6a91020633" tvg-chno="5053",RCG TV (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1027559825?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/NIlUdoZ.jpg" tvg-id="8714c7a90f2bd1a53f867ee81e61d816" tvg-chno="5054",RCG TV 2 (360p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/700912775?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/hzJu6QT.png" tvg-id="7702d74bdc1cce6c8c9fdbd9d350cada" tvg-chno="5055",RCG TV 2 (360p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1272382071?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/beUQopw.jpg" tvg-id="5051143df65b74bbe7c2e14f37105ece" tvg-chno="5056",RCG TV 3 (360p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1024741712?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/hzJu6QT.png" tvg-id="aa754078c76f3ff7ca145c4ea1637d9a" tvg-chno="5057",RCG TV 3 (360p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/2017490346?profile=pass
+#EXTINF:-1 tvg-id="36d2841ab073f568de1698d6208a9515" tvg-chno="5058",RT en Español (1080p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/444912182?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/H1AFRJh.png" tvg-id="31a6965c2930ef0d19cc62e1d47c532e" tvg-chno="5059",RTQ Queretaro (360p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1553376817?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/osgOMAu.png" tvg-id="7b22bae15bd53e84156af875be916939" tvg-chno="5060",SET Televisión Canal 26.1 (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1639588475?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/osgOMAu.png" tvg-id="1b0abcb652344794747a45e7e09677b9" tvg-chno="5061",SET Televisión Canal 26.2 (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/918293019?profile=pass
+#EXTINF:-1 logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg" tvg-id="166fe9cfea91b279d8234e675791bfb2" tvg-chno="5064",TELE SISTEMA CANAL 9 (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1340698390?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/ysowtzb.png" tvg-id="e27e6ea5180f5c69600ab07c408dc334" tvg-chno="5065",Telemar Campeche (480p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/627998434?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/bjGgLrA.jpg" tvg-id="7e6dcde4d49e7907f04fac06193a039f" tvg-chno="5066",Telemax (XEWH-TDT) (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1691184510?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/x5Mdzwv.png" tvg-id="97565d3db2256432636390acc59cc0fa" tvg-chno="5067",teleSUR (1080p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1029527191?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/4vEFJxf.png" tvg-id="27a83e05350872062b2f44fe0df18533" tvg-chno="5068",Televisa Ciudad Juarez (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/87992359?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/4hPbfbg.png" tvg-id="a5b76b56b596d977fc935527eacc8701" tvg-chno="5075",Televisa Veracruz (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1449899941?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/vsbl0u6.png" tvg-id="9454bc4c06f27ce9a4764eeef33f793a" tvg-chno="5076",Televisa Zacatecas (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1287410836?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/kpffqTI.png" tvg-id="c73a016e87407c6dd9da9988b7525344" tvg-chno="5078",Transmedia Televisión Morelia (500p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1845574343?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/XZ8GmZW.png" tvg-id="228f2d0e57e42edd435f89a84970c864" tvg-chno="5079",TV Lobo (404p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/237866786?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/OxxROZI.png" tvg-id="9afc42ba6500811052d0e8b2d874ef4b" tvg-chno="5080",TV Unam (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/977468570?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/1Z6svKc.jpg" tvg-id="ea6976dcfd684d55d1f03f5ea47a45ae" tvg-chno="5081",TVG América (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/1551264234?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/15kcNRb.png" tvg-id="60499507e8c64899aba943c589e4c7bb" tvg-chno="5082",TVMÁS (XHGV-TDT) (360p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/127224160?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mw4992J.png" tvg-id="f856bca83334983f6d6a4c3331468725" tvg-chno="5083",TVP (720p)
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/683431672?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/iuaYGK2.png" tvg-id="ecaf6b9e1e2cb313f04358991e267a7a" tvg-chno="5084",TVP Culiacán [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/510373868?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mw4992J.png" tvg-id="3736ca0596a57254320b775ac8b7cf16" tvg-chno="5085",TVP Los Mochis (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/97138231?profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mw4992J.png" tvg-id="fb04f8846bf542d9dd5cb0e5fc21e3a0" tvg-chno="5086",TVP Obregón [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/83363067?profile=pass
+#EXTINF:-1 logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" tvg-id="8517e8aba9b511217474c442fc88ceaf" tvg-chno="5087",UCL TV (720p) [Not 24/7]
+http://mitvlibre.20212022202320245.org:9981/stream/channelid/736630661?profile=pass
