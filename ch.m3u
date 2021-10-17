@@ -1,359 +1,189 @@
 #EXTM3U
-#EXTINF:0,Latina
-#EXTGRP:PERU
+#EXTINF:-1 tvg-id="f126a684ae2c18f5ff7f57989fc7c508" tvg-chno="2",Latina
 http://mi.tv.org:9981/stream/channelid/77997809?profile=pass
-#EXTINF:0,America Television
-#EXTGRP:PERU
-http://mi.tv.org:9981/stream/channelid/1857056290?profile=pass
-#EXTINF:0,Panamericana
-#EXTGRP:PERU
-http://mi.tv.org:9981/stream/channelid/942693240?profile=pass
-#EXTINF:0,TV PERU
-#EXTGRP:PERU
-http://mi.tv.org:9981/stream/channelid/2048085985?profile=pass
-#EXTINF:0,GLOBAL
-#EXTGRP:PERU
-http://mi.tv.org:9981/stream/channelid/240220384?profile=pass
-#EXTINF:0,Canal N
-#EXTGRP:PERU
-http://mi.tv.org:9981/stream/channelid/2005737671?profile=pass
-#EXTINF:0,ATV
-#EXTGRP:PERU
-http://mi.tv.org:9981/stream/channelid/436043391?profile=pass
-#EXTINF:0,La Tele
-#EXTGRP:PERU
-http://mi.tv.org:9981/stream/channelid/1533245798?profile=pass
-#EXTINF:0,Magic Kids [Not 24/7]
-#EXTGRP:INFANTILES NET
-http://mi.tv.org:9981/stream/channelid/1248344352?profile=pass
-#EXTINF:0,SEO TV 3 HD Nvls
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/843974499?profile=pass
-#EXTINF:0,C12 POSADAS
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/10578698?profile=pass
-#EXTINF:0,CINE.AR HD
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/1935423910?profile=pass
-#EXTINF:0,TVP FUEGUINA
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/369115444?profile=pass
-#EXTINF:0,T5 SATELITAL
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/1107895833?profile=pass
-#EXTINF:0,CINE.AR
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/190451011?profile=pass
-#EXTINF:0,CN23
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/296415552?profile=pass
-#EXTINF:0,CRONICA TV
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/2064838519?profile=pass
-#EXTINF:0,ENCUENTRO
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/137853231?profile=pass
-#EXTINF:0,IP
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/673311171?profile=pass
-#EXTINF:0,PAKA PAKA
-#EXTGRP:ARGENTINA
+#EXTINF:-1 tvg-id="b8c9fe93b8e7b0e49a57e1c1bea37eb5" tvg-chno="3",PAKA PAKA
 http://mi.tv.org:9981/stream/channelid/335464888?profile=pass
-#EXTINF:0,TEC TV
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/2082723299?profile=pass
-#EXTINF:0,TeleSUR
-#EXTGRP:VENEZUELA
-http://mi.tv.org:9981/stream/channelid/204321051?profile=pass
-#EXTINF:0,ABE Educativo
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1023786205?profile=pass
-#EXTINF:0,ABE TV
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1579855796?profile=pass
-#EXTINF:0,Abya Yala TV
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/818928318?profile=pass
-#EXTINF:0,ATB LPZ
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/540570383?profile=pass
-#EXTINF:0,Bethel Bolivia
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/389882466?profile=pass
-#EXTINF:0,Bolivia TV7.1
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/755194113?profile=pass
-#EXTINF:0,Bolivia TV7.2
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1913632851?profile=pass
-#EXTINF:0,Bolivision HD
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1840470766?profile=pass
-#EXTINF:0,CADENA A HD
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/597024627?profile=pass
-#EXTINF:0,EBo.TV
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1165160471?profile=pass
-#EXTINF:0,Ministerio de Educacion
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/2085357508?profile=pass
-#EXTINF:0,Palenque TV
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1938994734?profile=pass
-#EXTINF:0,PAT HD
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1344332226?profile=pass
-#EXTINF:0,RED 24 HD Bolivia
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1840781371?profile=pass
-#EXTINF:0,RED MISIONES
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/1278433103?profile=pass
-#EXTINF:0,Red Uno
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/602603619?profile=pass
-#EXTINF:0,RTP HD
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1479879956?profile=pass
-#EXTINF:0,SEO TV FHD
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/249659917?profile=pass
-#EXTINF:0,TL ESTRELLA HD
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1465713972?profile=pass
-#EXTINF:0,TV Universitaria
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/40281773?profile=pass
-#EXTINF:0,TVU Rubi Sucre
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/568434013?profile=pass
-#EXTINF:0,TVU Trinidad
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1799289825?profile=pass
-#EXTINF:0,UNITEL-SCZ
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/1949711958?profile=pass
-#EXTINF:0,XTO TV
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/347622540?profile=pass
-#EXTINF:0,Andes Televisión (Sicusani) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/498226616?profile=pass
-#EXTINF:0,Anime Zone TV (480p) [Not 24/7]
-#EXTGRP:INFANTILES NET
-http://mi.tv.org:9981/stream/channelid/877462364?profile=pass
-#EXTINF:0,AsiriTV (Lima) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1608810434?profile=pass
-#EXTINF:0,ATM Televisión (Apurimac) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/684374236?profile=pass
-#EXTINF:0,Bella Abanquina TV (Apurimac) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1470518135?profile=pass
-#EXTINF:0,Best Cable Más Cumbia (720p) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1841998511?profile=pass
-#EXTINF:0,Best Cable Music (720p) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1243616615?profile=pass
-#EXTINF:0,Best Cable Perú (720p) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1940241444?profile=pass
-#EXTINF:0,Best Cable Sports Perú (720p) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/268617864?profile=pass
-#EXTINF:0,BeXtreme TV (Lima) (1080p) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1769557009?profile=pass
-#EXTINF:0,Galáctica TV (Peru) (2160p)
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1326689529?profile=pass
-#EXTINF:0,HispanTV (480p)
-#EXTGRP:ESPAÑA
-http://mi.tv.org:9981/stream/channelid/654004804?profile=pass
-#EXTINF:0,MINEDU IPTV 1 [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1466947652?profile=pass
-#EXTINF:0,Peru Magico
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/844202051?profile=pass
-#EXTINF:0,RPP
-#EXTGRP:PERU
-http://mi.tv.org:9981/stream/channelid/1906988632?profile=pass
-#EXTINF:0,Telesur (Ilo) (720p) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/433009339?profile=pass
-#EXTINF:0,TV Noticias 7.3 (614p)
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1726332863?profile=pass
-#EXTINF:0,UCL TV (720p) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/736630661?profile=pass
-#EXTINF:0,Héroes en Pijamas
-#EXTGRP:INFANTILES
-http://mi.tv.org:9981/stream/channelid/2075667357?profile=pass
-#EXTINF:0,EXITOSA TV
-#EXTGRP:PERU NET
+#EXTINF:-1 tvg-id="a15ec94adc7ec1cdad47f112feb01734" tvg-chno="4",AmericaTV
+http://mi.tv.org:9981/stream/channelid/1254710945?profile=pass
+#EXTINF:-1 tvg-id="fbfd75e18031c1051fb35f5593e131fa" tvg-chno="4",AmericaTV
+http://mi.tv.org:9981/stream/channelid/1635122683?profile=pass
+#EXTINF:-1 tvg-id="9fd482b31af8b959e115b6b1eaf35c1c" tvg-chno="5",Panamericana
+http://mi.tv.org:9981/stream/channelid/864212127?profile=pass
+#EXTINF:-1 tvg-id="bcfca2dcad2f1aad156cd8e9c6b9acc2" tvg-chno="5",Panamericana TV
+http://mi.tv.org:9981/stream/channelid/1554185404?profile=pass
+#EXTINF:-1 tvg-id="d66c7b89b71931d220b1d1d50186711a" tvg-chno="6",TV Peru
+http://mi.tv.org:9981/stream/channelid/159083734?profile=pass
+#EXTINF:-1 tvg-id="4dd1eba6dfecd5ac2187c4e71f4cd67c" tvg-chno="6",TV PERU
+http://mi.tv.org:9981/stream/channelid/652988749?profile=pass
+#EXTINF:-1 tvg-id="7f7efd9954a43cc95f87ce7a862da21b" tvg-chno="7",ATV
+http://mi.tv.org:9981/stream/channelid/436043391?profile=pass
+#EXTINF:-1 tvg-id="9ff8b6fa55985cbc88671a0dc5d78c6b" tvg-chno="8",RPP
+http://mi.tv.org:9981/stream/channelid/2058811551?profile=pass
+#EXTINF:-1 tvg-id="6d379680790cb3b009afdd361321a953" tvg-chno="9",GLOBAL
+http://mi.tv.org:9981/stream/channelid/9844589?profile=pass
+#EXTINF:-1 tvg-id="1bed1941f2ec37786765b374ca25a123" tvg-chno="10",Perœ MÆgico
+http://mi.tv.org:9981/stream/channelid/1092218139?profile=pass
+#EXTINF:-1 tvg-id="917f38c9ae191b95a2530466e4cce492" tvg-chno="11",Canal N
+http://mi.tv.org:9981/stream/channelid/1228439441?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="2a80ac1bd96ac0c5acf07afc25e849de" tvg-chno="12",EXITOSA TV
 http://mi.tv.org:9981/stream/channelid/464289834?profile=pass
-#EXTINF:0,Canal de Las Estrellas (480p)
-#EXTGRP:MEXICO
-http://mi.tv.org:9981/stream/channelid/1590092089?profile=pass
-#EXTINF:0,Hipódromo de las Américas (480p)
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1153520399?profile=pass
-#EXTINF:0,TV Lobo (404p) [Not 24/7]
-#EXTGRP:BOLIVIA
-http://mi.tv.org:9981/stream/channelid/237866786?profile=pass
-#EXTINF:0,SEO TV 2 KIDS
-#EXTGRP:INFANTILES
-http://mi.tv.org:9981/stream/channelid/1962048577?profile=pass
-#EXTINF:0,Telenovelas
-#EXTGRP:NOVELAS
-http://mi.tv.org:9981/stream/channelid/136523317?profile=pass
-#EXTINF:0,Cartoon Network
-#EXTGRP:INFANTILES
-http://mi.tv.org:9981/stream/channelid/383922359?profile=pass
-#EXTINF:0,Discovery Kids
-#EXTGRP:INFANTILES
-http://mi.tv.org:9981/stream/channelid/1555064835?profile=pass
-#EXTINF:0,CNN International
-#EXTGRP:NOTICIAS
-http://mi.tv.org:9981/stream/channelid/1373079936?profile=pass
-#EXTINF:0,CNN Espaæol
-#EXTGRP:NOTICIAS
-http://mi.tv.org:9981/stream/channelid/2094745767?profile=pass
-#EXTINF:0,Nat Geo Wild
-#EXTGRP:CULTURA
-http://mi.tv.org:9981/stream/channelid/1513064590?profile=pass
-#EXTINF:0,History 2
-#EXTGRP:CULTURA
-http://mi.tv.org:9981/stream/channelid/705221902?profile=pass
-#EXTINF:0,National Geographic
-#EXTGRP:CULTURA
-http://mi.tv.org:9981/stream/channelid/1080581865?profile=pass
-#EXTINF:0,Discovery Channel
-#EXTGRP:CULTURA
-http://mi.tv.org:9981/stream/channelid/1724460556?profile=pass
-#EXTINF:0,Animal Planet
-#EXTGRP:CULTURA
-http://mi.tv.org:9981/stream/channelid/68836051?profile=pass
-#EXTINF:0,Nat Geo Kids
-#EXTGRP:INFANTILES
-http://mi.tv.org:9981/stream/channelid/271137573?profile=pass
-#EXTINF:0,Enlace
-#EXTGRP:RELIGIOSO
-http://mi.tv.org:9981/stream/channelid/1758454300?profile=pass
-#EXTINF:0,Cristovisiðn
-#EXTGRP:RELIGIOSO
-http://mi.tv.org:9981/stream/channelid/566605042?profile=pass
-#EXTINF:0,CHV
-#EXTGRP:CHILE
-http://mi.tv.org:9981/stream/channelid/479430257?profile=pass
-#EXTINF:0,La Red
-#EXTGRP:CHILE
-http://mi.tv.org:9981/stream/channelid/833554648?profile=pass
-#EXTINF:0,24 HORAS
-#EXTGRP:NOTICIAS
-http://mi.tv.org:9981/stream/channelid/771697354?profile=pass
-#EXTINF:0,Canal 43 Sudamericana (Ica) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1689492068?profile=pass
-#EXTINF:0,RSelvaTV (Tarapoto) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1462856377?profile=pass
-#EXTINF:0,TVP
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/419816014?profile=pass
-#EXTINF:0,CH 9 LA RIOJA
-#EXTGRP:ARGENTINA
-http://mi.tv.org:9981/stream/channelid/1206081284?profile=pass
-#EXTINF:0,GOLPERU
-#EXTGRP:PERU
-http://mi.tv.org:9981/stream/channelid/223871038?profile=pass
-#EXTINF:0,HBO Signature
-#EXTGRP:CINE
-http://mi.tv.org:9981/stream/channelid/948011250?profile=pass
-#EXTINF:0,HBO Plus
-#EXTGRP:CINE
-http://mi.tv.org:9981/stream/channelid/1758819945?profile=pass
-#EXTINF:0,HBO XTREME
-#EXTGRP:CINE
-http://mi.tv.org:9981/stream/channelid/1664117915?profile=pass
-#EXTINF:0,HBO Family
-#EXTGRP:CINE
-http://mi.tv.org:9981/stream/channelid/1763517285?profile=pass
-#EXTINF:0,TNT Series
-#EXTGRP:CINE
-http://mi.tv.org:9981/stream/channelid/1948591964?profile=pass
-#EXTINF:0,TNT
-#EXTGRP:CINE
-http://mi.tv.org:9981/stream/channelid/733005821?profile=pass
-#EXTINF:0,Tooncast
-#EXTGRP:INFANTILES
-http://mi.tv.org:9981/stream/channelid/300992783?profile=pass
-#EXTINF:0,Telemar Campeche (480p) [Not 24/7]
-#EXTGRP:unsorted
-http://mi.tv.org:9981/stream/channelid/1131975524?profile=pass
-#EXTINF:0,Vallenato Internacional (720p)
-#EXTGRP:unsorted
-http://mi.tv.org:9981/stream/channelid/576847258?profile=pass
-#EXTINF:0,Canal Estrellas
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-id="a6395cf3a4c195fd25ec17cb4b02381f" tvg-chno="13",CINE.AR HD
+http://mi.tv.org:9981/stream/channelid/1935423910?profile=pass
+#EXTINF:-1 tvg-id="e3d523fc69aa75d9d46c936e444fea0f" tvg-chno="14",TEC TV
+http://mi.tv.org:9981/stream/channelid/2082723299?profile=pass
+#EXTINF:-1 tvg-id="1783bc00ad2888977cf7bcc78af21fbd" tvg-chno="15",Canal Estrellas
 http://mi.tv.org:9981/stream/channelid/12354327?profile=pass
-#EXTINF:0,Telemundo
-#EXTGRP:unsorted
+#EXTINF:-1 tvg-id="5424e551698ba3b8755eb4436105f151" tvg-chno="16",RED Televisiðn
+http://mi.tv.org:9981/stream/channelid/1373971540?profile=pass
+#EXTINF:-1 tvg-id="204c5eb16966a5932a8238370ae49e0c" tvg-chno="17",Telemundo
 http://mi.tv.org:9981/stream/channelid/828263456?profile=pass
-#EXTINF:0,Nick Jr
-#EXTGRP:INFANTILES
+#EXTINF:-1 tvg-id="77ef127bb679874c13f0aac45b45c30d" tvg-chno="18",CRONICA TV
+http://mi.tv.org:9981/stream/channelid/2064838519?profile=pass
+#EXTINF:-1 tvg-id="2f79370882dfc790fef17dd03d1c5a2b" tvg-chno="19",ENCUENTRO
+http://mi.tv.org:9981/stream/channelid/137853231?profile=pass
+#EXTINF:-1 tvg-id="b30d6ae5c6dd094dd7c40743f8786884" tvg-chno="20",Nick Jr
 http://mi.tv.org:9981/stream/channelid/1701449139?profile=pass
-#EXTINF:0,A Son de Salsa (720p)
-#EXTGRP:VARIOS NET
-http://mi.tv.org:9981/stream/channelid/1659425830?profile=pass
-#EXTINF:0,CubaVision Internacional (480p) [Not 24/7]
-#EXTGRP:CUBA
-http://mi.tv.org:9981/stream/channelid/978098051?profile=pass
-#EXTINF:0,GORESAM TV [Not 24/7]
-#EXTGRP:VARIOS NET
-http://mi.tv.org:9981/stream/channelid/1642816832?profile=pass
-#EXTINF:0,Hatun TV (720p) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/1155463631?profile=pass
-#EXTINF:0,Huánuco en Vivo [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/372630572?profile=pass
-#EXTINF:0,LimaLive [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/876713661?profile=pass
-#EXTINF:0,OK TeVe (Yurimaguas) (720p) [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/948429732?profile=pass
-#EXTINF:0,Virgen de Natividad de Paruro [Not 24/7]
-#EXTGRP:PERU NET
-http://mi.tv.org:9981/stream/channelid/212161792?profile=pass
-#EXTINF:0,Fox Sports 2
-#EXTGRP:DEPORTES
+#EXTINF:-1 tvg-id="c3e921a892797cc5b98aacefb5da9292" tvg-chno="21",IP
+http://mi.tv.org:9981/stream/channelid/673311171?profile=pass
+#EXTINF:-1 tvg-id="b730e21618d12fca3aac548edfc0da82" tvg-chno="24",Cartoon Network
+http://mi.tv.org:9981/stream/channelid/383922359?profile=pass
+#EXTINF:-1 tvg-id="0c2ec966e0b2af074eaefba2cf4e1875" tvg-chno="32",Discovery Channel
+http://mi.tv.org:9981/stream/channelid/1724460556?profile=pass
+#EXTINF:-1 tvg-id="d35a1a84c1bb3d91cbbb308b25a39152" tvg-chno="33",Animal Planet
+http://mi.tv.org:9981/stream/channelid/68836051?profile=pass
+#EXTINF:-1 tvg-id="1ce2cfe8670a9c03fe70531e829e1a04" tvg-chno="36",Enlace
+http://mi.tv.org:9981/stream/channelid/1758454300?profile=pass
+#EXTINF:-1 tvg-id="e3c4b38c0b78779361df2e7ac85dd700" tvg-chno="37",Europa Europa
+http://mi.tv.org:9981/stream/channelid/213107939?profile=pass
+#EXTINF:-1 tvg-id="4235e9340e18bf696407c9b00c5f6468" tvg-chno="38",Film&Arts
+http://mi.tv.org:9981/stream/channelid/887698754?profile=pass
+#EXTINF:-1 tvg-id="6c0954c99ee718bb4e6142afb543f657" tvg-chno="39",Win Sports
+http://mi.tv.org:9981/stream/channelid/1230244204?profile=pass
+#EXTINF:-1 tvg-id="a1e829cae7b6c3eaa19afe0d1c0f6684" tvg-chno="40",El Gourmet
+http://mi.tv.org:9981/stream/channelid/1244260513?profile=pass
+#EXTINF:-1 tvg-id="7e1d754dd8e6f6e4d0ace9efe336a797" tvg-chno="41",Tooncast
+http://mi.tv.org:9981/stream/channelid/1299520894?profile=pass
+#EXTINF:-1 tvg-id="d93417e0761a5a328ec3ae32af8f3a7c" tvg-chno="44",Warner
+http://mi.tv.org:9981/stream/channelid/1612133593?profile=pass
+#EXTINF:-1 tvg-id="a065286d87b636f4455cd955b293c17e" tvg-chno="45",TyC
+http://mi.tv.org:9981/stream/channelid/1831364000?profile=pass
+#EXTINF:-1 tvg-id="e46094f1527199a81b71bd08125c2056" tvg-chno="46",Disney Channel
+http://mi.tv.org:9981/stream/channelid/1905549540?profile=pass
+#EXTINF:-1 tvg-id="aaf10a76805d78add3aa6956a38ae714" tvg-chno="47",TLC
+http://mi.tv.org:9981/stream/channelid/1980428714?profile=pass
+#EXTINF:-1 tvg-id="b5fa58febe72f6604c8c127f4735dff3" tvg-chno="48",AE Mundo
+http://mi.tv.org:9981/stream/channelid/2119760565?profile=pass
+#EXTINF:-1 tvg-id="4413d4ab738924c3f91ca53c3bcd7fff" tvg-chno="203",Disney XD
+http://mi.tv.org:9981/stream/channelid/735318852?profile=pass
+#EXTINF:-1 tvg-id="f41e5e312da3684bf72cdaa8a6cd3d71" tvg-chno="208",Nickelodeon
+http://mi.tv.org:9981/stream/channelid/828251892?profile=pass
+#EXTINF:-1 tvg-id="1242b5435644f5cee619bad09f05afe2" tvg-chno="209",NatGeo Kids
+http://mi.tv.org:9981/stream/channelid/1135952402?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQ9sUdDBUS9FQsh41am5MNazSmkWunhoqUPJUbC=s48-c-k-c0x00ffffff-no-rj" tvg-id="9d2bb8fbcf5c9dd387066e29e1161c6f" tvg-chno="213",Héroes en Pijamas
+http://mi.tv.org:9981/stream/channelid/2075667357?profile=pass
+#EXTINF:-1 tvg-id="08940179fa220fd57cfe86e04f0a07ea" tvg-chno="310",History Channel
+http://mi.tv.org:9981/stream/channelid/2030146568?profile=pass
+#EXTINF:-1 tvg-id="18602c353a9036cc99eeac7fe07f2431" tvg-chno="313",Discovery Turbo
+http://mi.tv.org:9981/stream/channelid/892100632?profile=pass
+#EXTINF:-1 tvg-id="8018ef73be1027511103b611c166b9cd" tvg-chno="320",Nat Geo
+http://mi.tv.org:9981/stream/channelid/1945049216?profile=pass
+#EXTINF:-1 tvg-id="0a6ba100651436a1ac41b19b5b3c16fb" tvg-chno="400",C12 POSADAS
+http://mi.tv.org:9981/stream/channelid/10578698?profile=pass
+#EXTINF:-1 tvg-id="344100165defdce246d68207963767ce" tvg-chno="415",TVP FUEGUINA
+http://mi.tv.org:9981/stream/channelid/369115444?profile=pass
+#EXTINF:-1 tvg-id="192609c29d026b877ecb2179caa94dcb" tvg-chno="416",T5 SATELITAL
+http://mi.tv.org:9981/stream/channelid/1107895833?profile=pass
+#EXTINF:-1 tvg-id="430d5a0bca5a5c492927f08816b99263" tvg-chno="419",CINE.AR
+http://mi.tv.org:9981/stream/channelid/190451011?profile=pass
+#EXTINF:-1 tvg-id="40f1aa11f63aa53d432f56bb533bd892" tvg-chno="420",CN23
+http://mi.tv.org:9981/stream/channelid/296415552?profile=pass
+#EXTINF:-1 tvg-id="4ee205198a3a683ec1bc05713e8e75f1" tvg-chno="424",TVP
+http://mi.tv.org:9981/stream/channelid/419816014?profile=pass
+#EXTINF:-1 tvg-id="15b19267efbcd7da4af6ba5a2d554c52" tvg-chno="445",RCN Novelas
+http://mi.tv.org:9981/stream/channelid/1737666837?profile=pass
+#EXTINF:-1 tvg-id="1bb12d0cda92f8e54c8bf7ecaca5c049" tvg-chno="445",TeleSUR
+http://mi.tv.org:9981/stream/channelid/204321051?profile=pass
+#EXTINF:-1 tvg-id="0457e347c5bc5e8a78e90552cc90d853" tvg-chno="449", CH 9 LA RIOJA
+http://mi.tv.org:9981/stream/channelid/1206081284?profile=pass
+#EXTINF:-1 tvg-id="10e976f65f7d1cb0c0a1976730295553" tvg-chno="459",Disney Xd
+http://mi.tv.org:9981/stream/channelid/1987504400?profile=pass
+#EXTINF:-1 tvg-id="11922ef065f66812321d0e373f08818e" tvg-chno="470",TVE
+http://mi.tv.org:9981/stream/channelid/1882100241?profile=pass
+#EXTINF:-1 tvg-id="9c2b9fc246613257da9418f5fdd0493e" tvg-chno="500",Fox Sports
+http://mi.tv.org:9981/stream/channelid/1117727644?profile=pass
+#EXTINF:-1 tvg-id="15037025deb79e3ea00e44376031195e" tvg-chno="501",Fox Sports 2
 http://mi.tv.org:9981/stream/channelid/628097813?profile=pass
-#EXTINF:0,Fox Sports 3
-#EXTGRP:DEPORTES
-http://mi.tv.org:9981/stream/channelid/347831090?profile=pass
-#EXTINF:0,ESPN 3
-#EXTGRP:DEPORTES
-http://mi.tv.org:9981/stream/channelid/1085014688?profile=pass
-#EXTINF:0,ESPN 2 Latin
-#EXTGRP:DEPORTES
-http://mi.tv.org:9981/stream/channelid/1306900078?profile=pass
-#EXTINF:0,GOL TV
-#EXTGRP:DEPORTES
-http://mi.tv.org:9981/stream/channelid/160562736?profile=pass
-#EXTINF:0,TNT SPORTS 3
-#EXTGRP:DEPORTES
-http://mi.tv.org:9981/stream/channelid/1339677638?profile=pass
-#EXTINF:0,ESPN
-#EXTGRP:DEPORTES
+#EXTINF:-1 tvg-id="dc9ccc2de1965f38d232be07d0f5efcb" tvg-chno="502",Fox Sports 1
+http://mi.tv.org:9981/stream/channelid/768384220?profile=pass
+#EXTINF:-1 tvg-id="7484195cfe81e3b5bf7c4deb1e9b7cfa" tvg-chno="503",ESPN
 http://mi.tv.org:9981/stream/channelid/1545176180?profile=pass
-#EXTINF:0,Cinemax
-#EXTGRP:CINE
+#EXTINF:-1 tvg-id="6eb6e54debcc2bf87f3f59f1c1f5131b" tvg-chno="504",ESPN 2 Latin
+http://mi.tv.org:9981/stream/channelid/1306900078?profile=pass
+#EXTINF:-1 tvg-id="a002ac40cc1126a3e5861e4cf357c8df" tvg-chno="505",ESPN 3
+http://mi.tv.org:9981/stream/channelid/1085014688?profile=pass
+#EXTINF:-1 tvg-id="c6dbd94f577c681370a5fbed9dbadef8" tvg-chno="506",TNT SPORTS 3
+http://mi.tv.org:9981/stream/channelid/1339677638?profile=pass
+#EXTINF:-1 tvg-id="89d6ba81541a8dbd1d6a848e3a10d3b2" tvg-chno="507",HBO Plus
+http://mi.tv.org:9981/stream/channelid/29021833?profile=pass
+#EXTINF:-1 tvg-id="30fe91092171f3e70e43d75f1aef98ec" tvg-chno="508",GOL TV
+http://mi.tv.org:9981/stream/channelid/160562736?profile=pass
+#EXTINF:-1 tvg-id="adafdb98b910e52d403e2e6faa96039a" tvg-chno="509",FOX Sports
+http://mi.tv.org:9981/stream/channelid/417050541?profile=pass
+#EXTINF:-1 tvg-id="8e07f6ab08111d988351c08998a8da6a" tvg-chno="510",TNT SPORTS 2
+http://mi.tv.org:9981/stream/channelid/737544078?profile=pass
+#EXTINF:-1 tvg-id="1adf757df3b32af6f331bb03f955f59a" tvg-chno="511",GOLPERU
+http://mi.tv.org:9981/stream/channelid/2104876826?profile=pass
+#EXTINF:-1 tvg-id="bda3dfefc940f1e9484cb5fd4a707b5d" tvg-chno="512",Nat Geo Wild
+http://mi.tv.org:9981/stream/channelid/1876927421?profile=pass
+#EXTINF:-1 tvg-id="1f336deb9343bb97733008c8a4d21339" tvg-chno="513",HBO SD
+http://mi.tv.org:9981/stream/channelid/1802318623?profile=pass
+#EXTINF:-1 tvg-id="3643bde3c772ba6599776f3cc985cd0e" tvg-chno="514",TV FAMILIA
+http://mi.tv.org:9981/stream/channelid/1673347894?profile=pass
+#EXTINF:-1 tvg-id="ae0ba05d152fac41474a017963d573c1" tvg-chno="515",SyFy
+http://mi.tv.org:9981/stream/channelid/1570769838?profile=pass
+#EXTINF:-1 tvg-id="29469d5892bc6ab17a166344a9b9a61c" tvg-chno="516",Gol TV
+http://mi.tv.org:9981/stream/channelid/1486702121?profile=pass
+#EXTINF:-1 tvg-id="19557247882098ebde3fc7f63344fb51" tvg-chno="517",I SAT
+http://mi.tv.org:9981/stream/channelid/1198675225?profile=pass
+#EXTINF:-1 tvg-id="d6d9eb362b387e60e6284dc90d2b5c58" tvg-chno="518",Paramount Channel
+http://mi.tv.org:9981/stream/channelid/921426390?profile=pass
+#EXTINF:-1 tvg-id="db9af62f5e195ffee57f759d7a65bd5a" tvg-chno="519",CNN International
+http://mi.tv.org:9981/stream/channelid/804690651?profile=pass
+#EXTINF:-1 tvg-id="fdc7b02ba84c457831849edcb105a544" tvg-chno="520",TNT
+http://mi.tv.org:9981/stream/channelid/733005821?profile=pass
+#EXTINF:-1 tvg-id="dbe7b958391a5b849f888eaf18cee4bb" tvg-chno="521",TCM
+http://mi.tv.org:9981/stream/channelid/1488578523?profile=pass
+#EXTINF:-1 tvg-id="5420a4a9d3bb35770cc5bacb2a4a6f2e" tvg-chno="522",Space
+http://mi.tv.org:9981/stream/channelid/698622036?profile=pass
+#EXTINF:-1 tvg-id="65fc9965101c04583045bedd345b8863" tvg-chno="523",I-Sat
+http://mi.tv.org:9981/stream/channelid/1704590437?profile=pass
+#EXTINF:-1 tvg-id="ce63ba54031ddca09fdf845080e247f8" tvg-chno="524",Cinecanal
+http://mi.tv.org:9981/stream/channelid/1421501390?profile=pass
+#EXTINF:-1 tvg-id="f08dc7714fa305c69d5b87beae849b21" tvg-chno="525",HBO
+http://mi.tv.org:9981/stream/channelid/1908903408?profile=pass
+#EXTINF:-1 tvg-id="95c43e1566d1b4f1368eca69d2fe7a19" tvg-chno="526",Universal
+http://mi.tv.org:9981/stream/channelid/356435093?profile=pass
+#EXTINF:-1 tvg-id="c5843e69752813760aedf056515dbc55" tvg-chno="527",FX
+http://mi.tv.org:9981/stream/channelid/1765704901?profile=pass
+#EXTINF:-1 tvg-id="31463d332f97246fbd4f5584fd5de36b" tvg-chno="528",Sony
+http://mi.tv.org:9981/stream/channelid/859653681?profile=pass
+#EXTINF:-1 tvg-id="aabddbeeed37b692306b64236b3396ab" tvg-chno="529",Discovery ID
+http://mi.tv.org:9981/stream/channelid/1859894698?profile=pass
+#EXTINF:-1 tvg-id="e2e10ee9ce5080281a4ff9558c88d11b" tvg-chno="530",AXN
+http://mi.tv.org:9981/stream/channelid/1762583010?profile=pass
+#EXTINF:-1 tvg-id="64ed089700691cc6a6a6be36aab7c6ca" tvg-chno="533",Cinemax
 http://mi.tv.org:9981/stream/channelid/386461028?profile=pass
-
+#EXTINF:-1 tvg-id="8b8c7e78c461b0a41a635fb4961131b5" tvg-chno="534",HBO Signature
+http://mi.tv.org:9981/stream/channelid/2021559435?profile=pass
+#EXTINF:-1 tvg-id="6b5c04f6f26f00cc9b1c83c5af6a0826" tvg-chno="535",HBO POP
+http://mi.tv.org:9981/stream/channelid/1979997291?profile=pass
+#EXTINF:-1 tvg-id="51c1be9c4ffa2908797cc62f642396c8" tvg-chno="540",Discovery Science
+http://mi.tv.org:9981/stream/channelid/482263377?profile=pass
+#EXTINF:-1 tvg-id="b09e778a38ef3a0e5fc026a6fb38cf2c" tvg-chno="541",Fox News
+http://mi.tv.org:9981/stream/channelid/175611568?profile=pass
+#EXTINF:-1 tvg-id="a98f5c8878c15119ab31687bf0f27640" tvg-chno="542",CNN Espaæol
+http://mi.tv.org:9981/stream/channelid/140283817?profile=pass
+#EXTINF:-1 tvg-id="2c742686f4bbb5ad9739b013ba67ef5d" tvg-chno="543",ESPN2
+http://mi.tv.org:9981/stream/channelid/103183404?profile=pass
+#EXTINF:-1 tvg-id="dd903d8344ae36538b2ed828668d7648" tvg-chno="545",Golden
+http://mi.tv.org:9981/stream/channelid/54366429?profile=pass
