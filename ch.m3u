@@ -25,8 +25,8 @@ http://mi.tv.org:9981/stream/channelid/9844589?profile=pass
 http://mi.tv.org:9981/stream/channelid/1092218139?profile=pass
 #EXTINF:-1 tvg-id="917f38c9ae191b95a2530466e4cce492" tvg-chno="11",Canal N
 http://mi.tv.org:9981/stream/channelid/1228439441?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="2a80ac1bd96ac0c5acf07afc25e849de" tvg-chno="12",EXITOSA TV
-http://mi.tv.org:9981/stream/channelid/464289834?profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLTSoKLGIoh4g84thqcbPOfUKdozFkrO37nbDKEO=s48-c-k-c0x00ffffff-no-rj" tvg-id="3307c521f1087477100178d0369181ba" tvg-chno="12",EXITOSA TV
+http://mi.tv.org:9981/stream/channelid/566560563?profile=pass
 #EXTINF:-1 tvg-id="a6395cf3a4c195fd25ec17cb4b02381f" tvg-chno="13",CINE.AR HD
 http://mi.tv.org:9981/stream/channelid/1935423910?profile=pass
 #EXTINF:-1 tvg-id="e3d523fc69aa75d9d46c936e444fea0f" tvg-chno="14",TEC TV
@@ -73,20 +73,48 @@ http://mi.tv.org:9981/stream/channelid/1905549540?profile=pass
 http://mi.tv.org:9981/stream/channelid/1980428714?profile=pass
 #EXTINF:-1 tvg-id="b5fa58febe72f6604c8c127f4735dff3" tvg-chno="48",AE Mundo
 http://mi.tv.org:9981/stream/channelid/2119760565?profile=pass
-#EXTINF:-1 tvg-id="4413d4ab738924c3f91ca53c3bcd7fff" tvg-chno="203",Disney XD
+#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQ9sUdDBUS9FQsh41am5MNazSmkWunhoqUPJUbC=s48-c-k-c0x00ffffff-no-rj" tvg-id="b843f9fa08ffb30d560b3cbbc4409974" tvg-chno="213",Héroes en Pijamas
+http://mi.tv.org:9981/stream/channelid/2063156152?profile=pass
+#EXTINF:-1 tvg-id="4cf0f4f9d4ce859fb94a1f6f80de4e5d" tvg-chno="250",SEO TV
+http://mi.tv.org:9981/stream/channelid/2046095436?profile=pass
+#EXTINF:-1 tvg-id="3a73bb8bedec91a9b7c4a3dd2e482ad1" tvg-chno="251",Bolivia TV7.1
+http://mi.tv.org:9981/stream/channelid/196834106?profile=pass
+#EXTINF:-1 tvg-id="4e14211675b45d56cbf5bc86f7698484" tvg-chno="252",EBo.TV
+http://mi.tv.org:9981/stream/channelid/371266638?profile=pass
+#EXTINF:-1 tvg-id="7b4b27969b6fc2a1cdf5450e7ee24837" tvg-chno="253",TV Universitaria
+http://mi.tv.org:9981/stream/channelid/371673979?profile=pass
+#EXTINF:-1 tvg-id="d7bf4027247cc3159ade8af6193c771f" tvg-chno="254",XTO TV
+http://mi.tv.org:9981/stream/channelid/658554839?profile=pass
+#EXTINF:-1 tvg-id="5836bd2b6ba4504738a3155b604a5800" tvg-chno="255",Red Radios ARRCB
+http://mi.tv.org:9981/stream/channelid/733820504?profile=pass
+#EXTINF:-1 tvg-id="4413d4ab738924c3f91ca53c3bcd7fff" tvg-chno="256",Disney XD
 http://mi.tv.org:9981/stream/channelid/735318852?profile=pass
-#EXTINF:-1 tvg-id="f41e5e312da3684bf72cdaa8a6cd3d71" tvg-chno="208",Nickelodeon
+#EXTINF:-1 tvg-id="fe20212d50a5782cd3a18fceb1a6b2a2" tvg-chno="257",Red UNO SCZ
+http://mi.tv.org:9981/stream/channelid/757145854?profile=pass
+#EXTINF:-1 tvg-id="f41e5e312da3684bf72cdaa8a6cd3d71" tvg-chno="258",Nickelodeon
 http://mi.tv.org:9981/stream/channelid/828251892?profile=pass
-#EXTINF:-1 tvg-id="1242b5435644f5cee619bad09f05afe2" tvg-chno="209",NatGeo Kids
-http://mi.tv.org:9981/stream/channelid/1135952402?profile=pass
-#EXTINF:-1 logo="https://yt3.ggpht.com/ytc/AKedOLQ9sUdDBUS9FQsh41am5MNazSmkWunhoqUPJUbC=s48-c-k-c0x00ffffff-no-rj" tvg-id="9d2bb8fbcf5c9dd387066e29e1161c6f" tvg-chno="213",Héroes en Pijamas
-http://mi.tv.org:9981/stream/channelid/2075667357?profile=pass
-#EXTINF:-1 tvg-id="08940179fa220fd57cfe86e04f0a07ea" tvg-chno="310",History Channel
-http://mi.tv.org:9981/stream/channelid/2030146568?profile=pass
-#EXTINF:-1 tvg-id="18602c353a9036cc99eeac7fe07f2431" tvg-chno="313",Discovery Turbo
+#EXTINF:-1 tvg-id="5c2d2bb2648997eb9245e768fe176e19" tvg-chno="259",DISNEY HD
+http://mi.tv.org:9981/stream/channelid/841690460?profile=pass
+#EXTINF:-1 tvg-id="c76d22b337ed03e683203273f92f9025" tvg-chno="260",ABE TV
+http://mi.tv.org:9981/stream/channelid/857894343?profile=pass
+#EXTINF:-1 tvg-id="18602c353a9036cc99eeac7fe07f2431" tvg-chno="261",Discovery Turbo
 http://mi.tv.org:9981/stream/channelid/892100632?profile=pass
-#EXTINF:-1 tvg-id="8018ef73be1027511103b611c166b9cd" tvg-chno="320",Nat Geo
+#EXTINF:-1 tvg-id="1242b5435644f5cee619bad09f05afe2" tvg-chno="262",NatGeo Kids
+http://mi.tv.org:9981/stream/channelid/1135952402?profile=pass
+#EXTINF:-1 tvg-id="b640fcda5365101f9be444043aa1ff68" tvg-chno="263",Bolivia TV7.2
+http://mi.tv.org:9981/stream/channelid/1526481078?profile=pass
+#EXTINF:-1 tvg-id="68c40ade2898b5e4fec1713f5b9d0d3c" tvg-chno="264",SEO TV 3 HD Nvls
+http://mi.tv.org:9981/stream/channelid/1577763944?profile=pass
+#EXTINF:-1 tvg-id="15b19267efbcd7da4af6ba5a2d554c52" tvg-chno="265",RCN Novelas
+http://mi.tv.org:9981/stream/channelid/1737666837?profile=pass
+#EXTINF:-1 tvg-id="11922ef065f66812321d0e373f08818e" tvg-chno="266",TVE
+http://mi.tv.org:9981/stream/channelid/1882100241?profile=pass
+#EXTINF:-1 tvg-id="1ba72e729638a9cb14dea809b5fcda8c" tvg-chno="267",UNITEL-SCZ
+http://mi.tv.org:9981/stream/channelid/1915660059?profile=pass
+#EXTINF:-1 tvg-id="8018ef73be1027511103b611c166b9cd" tvg-chno="268",Nat Geo
 http://mi.tv.org:9981/stream/channelid/1945049216?profile=pass
+#EXTINF:-1 tvg-id="08940179fa220fd57cfe86e04f0a07ea" tvg-chno="269",History Channel
+http://mi.tv.org:9981/stream/channelid/2030146568?profile=pass
 #EXTINF:-1 tvg-id="0a6ba100651436a1ac41b19b5b3c16fb" tvg-chno="400",C12 POSADAS
 http://mi.tv.org:9981/stream/channelid/10578698?profile=pass
 #EXTINF:-1 tvg-id="344100165defdce246d68207963767ce" tvg-chno="415",TVP FUEGUINA
@@ -99,16 +127,12 @@ http://mi.tv.org:9981/stream/channelid/190451011?profile=pass
 http://mi.tv.org:9981/stream/channelid/296415552?profile=pass
 #EXTINF:-1 tvg-id="4ee205198a3a683ec1bc05713e8e75f1" tvg-chno="424",TVP
 http://mi.tv.org:9981/stream/channelid/419816014?profile=pass
-#EXTINF:-1 tvg-id="15b19267efbcd7da4af6ba5a2d554c52" tvg-chno="445",RCN Novelas
-http://mi.tv.org:9981/stream/channelid/1737666837?profile=pass
 #EXTINF:-1 tvg-id="1bb12d0cda92f8e54c8bf7ecaca5c049" tvg-chno="445",TeleSUR
 http://mi.tv.org:9981/stream/channelid/204321051?profile=pass
 #EXTINF:-1 tvg-id="0457e347c5bc5e8a78e90552cc90d853" tvg-chno="449", CH 9 LA RIOJA
 http://mi.tv.org:9981/stream/channelid/1206081284?profile=pass
 #EXTINF:-1 tvg-id="10e976f65f7d1cb0c0a1976730295553" tvg-chno="459",Disney Xd
 http://mi.tv.org:9981/stream/channelid/1987504400?profile=pass
-#EXTINF:-1 tvg-id="11922ef065f66812321d0e373f08818e" tvg-chno="470",TVE
-http://mi.tv.org:9981/stream/channelid/1882100241?profile=pass
 #EXTINF:-1 tvg-id="9c2b9fc246613257da9418f5fdd0493e" tvg-chno="500",Fox Sports
 http://mi.tv.org:9981/stream/channelid/1117727644?profile=pass
 #EXTINF:-1 tvg-id="15037025deb79e3ea00e44376031195e" tvg-chno="501",Fox Sports 2
