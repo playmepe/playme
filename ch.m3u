@@ -3,15 +3,9 @@
 http://mi.tv.org:9981/stream/channelid/77997809?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/americatv.png" tvg-id="a15ec94adc7ec1cdad47f112feb01734" tvg-chno="4",AmericaTV
 http://mi.tv.org:9981/stream/channelid/1254710945?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/americatv.png" tvg-id="fbfd75e18031c1051fb35f5593e131fa" tvg-chno="4",AmericaTV
-http://mi.tv.org:9981/stream/channelid/1635122683?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/panamericana.png" tvg-id="9fd482b31af8b959e115b6b1eaf35c1c" tvg-chno="5",Panamericana
-http://mi.tv.org:9981/stream/channelid/864212127?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/panamericanatv.png" tvg-id="bcfca2dcad2f1aad156cd8e9c6b9acc2" tvg-chno="5",Panamericana TV
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/panamericanatv.png" tvg-id="bcfca2dcad2f1aad156cd8e9c6b9acc2" tvg-chno="5",Panamericana
 http://mi.tv.org:9981/stream/channelid/1554185404?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/tvperu.png" tvg-id="d66c7b89b71931d220b1d1d50186711a" tvg-chno="6",TV Peru
-http://mi.tv.org:9981/stream/channelid/159083734?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/tvperu.png" tvg-id="4dd1eba6dfecd5ac2187c4e71f4cd67c" tvg-chno="6",TV PERU
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/tvperu.png" tvg-id="4dd1eba6dfecd5ac2187c4e71f4cd67c" tvg-chno="6",TV Peru
 http://mi.tv.org:9981/stream/channelid/652988749?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/atv.png" tvg-id="7f7efd9954a43cc95f87ce7a862da21b" tvg-chno="7",ATV
 http://mi.tv.org:9981/stream/channelid/436043391?profile=pass
@@ -69,7 +63,7 @@ http://mi.tv.org:9981/stream/channelid/259481798?profile=pass
 http://mi.tv.org:9981/stream/channelid/716199709?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/cinemax.png" tvg-id="ee50933107d28872e4d9eb20d101cbf0" tvg-chno="31",Cinemax
 http://mi.tv.org:9981/stream/channelid/831738094?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/warnerchannel.png" tvg-id="97e86391f1b8f970ee9c2880aadbccff" tvg-chno="31",Warner Channel
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/warnerchannel.png" tvg-id="97e86391f1b8f970ee9c2880aadbccff" tvg-chno="31",Warner
 http://mi.tv.org:9981/stream/channelid/291760279?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/discoverychannel.png" tvg-id="0c2ec966e0b2af074eaefba2cf4e1875" tvg-chno="32",Discovery Channel
 http://mi.tv.org:9981/stream/channelid/1724460556?profile=pass
@@ -77,7 +71,7 @@ http://mi.tv.org:9981/stream/channelid/1724460556?profile=pass
 http://mi.tv.org:9981/stream/channelid/405855020?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/animalplanet.png" tvg-id="d35a1a84c1bb3d91cbbb308b25a39152" tvg-chno="33",Animal Planet
 http://mi.tv.org:9981/stream/channelid/68836051?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/fxmovies.png" tvg-id="f112142b5a63e39f67342282a9adf40b" tvg-chno="33",FX Movies
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/fxmovies.png" tvg-id="f112142b5a63e39f67342282a9adf40b" tvg-chno="33",FXM
 http://mi.tv.org:9981/stream/channelid/722735857?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/rectv.png" tvg-id="5a4bd4b28e212c15b32ec79d4b3f96eb" tvg-chno="33",REC TV
 http://mi.tv.org:9981/stream/channelid/852773722?profile=pass
@@ -107,13 +101,13 @@ http://mi.tv.org:9981/stream/channelid/1241817834?profile=pass
 http://mi.tv.org:9981/stream/channelid/887698754?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/tves.png" tvg-id="9167a04fc98e312886d67a79b3f11eb9" tvg-chno="38",TVES
 http://mi.tv.org:9981/stream/channelid/1335912337?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/isat.png" tvg-id="82eed5d0b081aebdf5da567e9d922eb8" tvg-chno="39",I SAT
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/isat.png" tvg-id="82eed5d0b081aebdf5da567e9d922eb8" tvg-chno="39",I-Sat
 http://mi.tv.org:9981/stream/channelid/1356197506?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/winsports.png" tvg-id="6c0954c99ee718bb4e6142afb543f657" tvg-chno="39",Win Sports
 http://mi.tv.org:9981/stream/channelid/1230244204?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/disneyxd.png" tvg-id="074693cd6eb48f2c952bd33f1e2f6686" tvg-chno="40",Disney Xd
 http://mi.tv.org:9981/stream/channelid/1301497351?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/natgeokids.png" tvg-id="3451985203a47e7182ca0db4d524ee52" tvg-chno="40",Nat Geo Kids
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/natgeokids.png" tvg-id="3451985203a47e7182ca0db4d524ee52" tvg-chno="40",NatGeo Kids
 http://mi.tv.org:9981/stream/channelid/1385713972?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/discoveryturbo.png" tvg-id="37bbf6cd7816e852b2c46e8b73e51c8a" tvg-chno="41",Discovery Turbo
 http://mi.tv.org:9981/stream/channelid/1308015415?profile=pass
@@ -137,7 +131,7 @@ http://mi.tv.org:9981/stream/channelid/1783320397?profile=pass
 http://mi.tv.org:9981/stream/channelid/1612133593?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/staraction.png" tvg-id="6fb0f0eded1c908020a6216230193dc2" tvg-chno="45",STAR ACTION
 http://mi.tv.org:9981/stream/channelid/1844490351?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/tyc.png" tvg-id="a065286d87b636f4455cd955b293c17e" tvg-chno="45",TyC
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/tyc.png" tvg-id="a065286d87b636f4455cd955b293c17e" tvg-chno="45",TyC  Sports
 http://mi.tv.org:9981/stream/channelid/1831364000?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/vive.png" tvg-id="c349fe684ffe55f3fe4f8712f61f6f9b" tvg-chno="45",Vive
 http://mi.tv.org:9981/stream/channelid/1761495491?profile=pass
@@ -161,7 +155,7 @@ http://mi.tv.org:9981/stream/channelid/473725471?profile=pass
 http://mi.tv.org:9981/stream/channelid/540093576?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/hbo2.png" tvg-id="53e244212084f1f0995c443873547aec" tvg-chno="51",HBO 2
 http://mi.tv.org:9981/stream/channelid/558162515?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/hboxtremesd.png" tvg-id="fd4b5ea7519f95cc101cae8f2492e1e9" tvg-chno="52",HBO XTREME SD
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/hboxtremesd.png" tvg-id="fd4b5ea7519f95cc101cae8f2492e1e9" tvg-chno="52",HBO XTREME
 http://mi.tv.org:9981/stream/channelid/660491261?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/fxm.png" tvg-id="07ac78271ce740770971e5fd6c3ede4f" tvg-chno="53",FXM
 http://mi.tv.org:9981/stream/channelid/662219783?profile=pass
@@ -249,16 +243,32 @@ http://mi.tv.org:9981/stream/channelid/1945649325?profile=pass
 http://mi.tv.org:9981/stream/channelid/2041603933?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/tnt.png" tvg-id="8ebbf9fa4725a098342396e9bb3e3de8" tvg-chno="95",TNT
 http://mi.tv.org:9981/stream/channelid/2063186830?profile=pass
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/boliviatv.png" tvg-id="8644db7ebeb2ae367b823fd5c34be638" tvg-chno="96",BOLIVIA TV
+http://mi.tv.org:9981/stream/channelid/2128299142?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/travelandlivingchannel.png" tvg-id="4db968ff10d4cac51f34f790703c77fc" tvg-chno="96",Travel and Living Channel
 http://mi.tv.org:9981/stream/channelid/2137569613?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/mtv.png" tvg-id="d27a86586f9435a25956a0e4370d19f1" tvg-chno="97",MTV
 http://mi.tv.org:9981/stream/channelid/1485208274?profile=pass
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/tvculturas.png" tvg-id="a703c97884367f9fe80a387189c551df" tvg-chno="97",TV Culturas
+http://mi.tv.org:9981/stream/channelid/2026439591?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/tntseries.png" tvg-id="6c4f070011dc92637988ad07e2209269" tvg-chno="98",TNT Series
 http://mi.tv.org:9981/stream/channelid/479084?profile=pass
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/gigavision.png" tvg-id="4158b0d43e8168f8a38f9a192d5462b6" tvg-chno="100",Gigavision
+http://mi.tv.org:9981/stream/channelid/1420843073?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/telefuturo.png" tvg-id="3dc19af1692e01d556479ea3b46860cc" tvg-chno="100",Telefuturo
 http://mi.tv.org:9981/stream/channelid/1905967421?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/grandescantantes.png" tvg-id="4caa50bbcd4bbf538df9040d116d3f1d" tvg-chno="106",GRANDES CANTANTES
-http://mi.tv.org:9981/stream/channelid/995142220?profile=pass
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/enteltvplus.png" tvg-id="8dafa4538fafcfce3bd28662bee9db60" tvg-chno="101",ENTEL TV PLUS
+http://mi.tv.org:9981/stream/channelid/1403301773?profile=pass
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/sol.png" tvg-id="fe75574e5717de7b6106b8c1a670bdd1" tvg-chno="102",SOL
+http://mi.tv.org:9981/stream/channelid/1314354686?profile=pass
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/radiodisney.png" tvg-id="241f55ca67b6089b6a4e6bdbbcb0e3b6" tvg-chno="103",Radio Disney
+http://mi.tv.org:9981/stream/channelid/1247092516?profile=pass
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/abyayala.png" tvg-id="523ce4352a78bc3f22f8f8ea10f90104" tvg-chno="105",ABYA YALA
+http://mi.tv.org:9981/stream/channelid/904150098?profile=pass
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/unitel.png" tvg-id="388405ab662b6d55c43ee37754a6bf41" tvg-chno="106",UNITEL
+http://mi.tv.org:9981/stream/channelid/721781816?profile=pass
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/illimani.png" tvg-id="ec90d819ee43eba8e18921bf6cb4ffd7" tvg-chno="108",Illimani
+http://mi.tv.org:9981/stream/channelid/433623276?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/panamericana.png" tvg-id="5bfcf80616b939ebe1c42c3fc56431f5" tvg-chno="180",PANAMERICANA
 http://mi.tv.org:9981/stream/channelid/116980827?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/jerusalemradio.png" tvg-id="347387a3c1dd8219ca73a505c86f5599" tvg-chno="190",Jerusalem Radio
@@ -279,7 +289,7 @@ http://mi.tv.org:9981/stream/channelid/371266638?profile=pass
 http://mi.tv.org:9981/stream/channelid/371673979?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/xtotv.png" tvg-id="d7bf4027247cc3159ade8af6193c771f" tvg-chno="254",XTO TV
 http://mi.tv.org:9981/stream/channelid/658554839?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/disneyxd.png" tvg-id="4413d4ab738924c3f91ca53c3bcd7fff" tvg-chno="256",Disney XD
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/disneyxd.png" tvg-id="4413d4ab738924c3f91ca53c3bcd7fff" tvg-chno="256",Disney Xd
 http://mi.tv.org:9981/stream/channelid/735318852?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/redunoscz.png" tvg-id="fe20212d50a5782cd3a18fceb1a6b2a2" tvg-chno="257",Red UNO SCZ
 http://mi.tv.org:9981/stream/channelid/757145854?profile=pass
@@ -337,7 +347,7 @@ http://mi.tv.org:9981/stream/channelid/1306900078?profile=pass
 http://mi.tv.org:9981/stream/channelid/1339677638?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/hboplus.png" tvg-id="89d6ba81541a8dbd1d6a848e3a10d3b2" tvg-chno="507",HBO Plus
 http://mi.tv.org:9981/stream/channelid/29021833?profile=pass
-#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/goltv.png" tvg-id="30fe91092171f3e70e43d75f1aef98ec" tvg-chno="508",GOL TV
+#EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/goltv.png" tvg-id="30fe91092171f3e70e43d75f1aef98ec" tvg-chno="508",Gol TV
 http://mi.tv.org:9981/stream/channelid/160562736?profile=pass
 #EXTINF:-1 logo="http://mi.tv.org/clpicons/icons/foxsports.png" tvg-id="adafdb98b910e52d403e2e6faa96039a" tvg-chno="509",FOX Sports
 http://mi.tv.org:9981/stream/channelid/417050541?profile=pass
